@@ -1,0 +1,844 @@
+﻿Genero;Idade;Q01_Sentiu_Estresse;Q02_Batimento_Acelerado;Q03_Ansiedade_Tensao;Q04_Problemas_Sono;Q05_Ansiedade_Tensao_2;Q06_Dores_Cabeca;Q07_Irritabilidade;Q08_Dificuldade_Concentracao;Q09_Tristeza_Desanimo;Q10_Problemas_Saude;Q11_Solidao;Q12_Sobrecarga_Academica;Q13_Competicao_Colegas;Q14_Estresse_Relacionamento;Q15_Dificuldade_Professores;Q16_Ambiente_Trabalho;Q17_Falta_Lazer;Q18_Estresse_Moradia;Q19_Confianca_Academica;Q20_Confianca_Materias;Q21_Conflito_Atividades;Q22_Frequencia_Aulas;Q23_Mudanca_Peso;Q24_Tipo_Estresse;Desc_Sentiu_Estresse
+Não Informado;20;3;4;2;5;1;2;1;2;2;3;1;5;1;2;3;1;4;1;2;1;3;1;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;2;3;2;1;1;1;1;4;2;1;2;1;2;4;3;2;1;1;3;2;1;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;5;4;2;2;1;3;4;2;3;2;3;4;5;2;2;2;2;1;4;1;1;2;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;20;3;4;3;2;2;3;4;3;5;2;4;1;2;3;1;1;2;1;2;1;1;5;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;3;3;3;2;2;4;4;4;4;1;1;1;2;1;2;3;1;2;2;4;2;2;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;3;4;3;2;3;3;4;1;3;1;2;2;3;2;2;3;1;2;3;2;4;4;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;2;2;1;4;4;3;4;1;3;4;2;1;3;4;4;4;2;3;4;3;3;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;5;5;5;2;4;2;1;1;2;2;4;1;2;1;1;4;2;4;3;1;1;1;5;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;20;3;2;1;5;3;5;1;1;2;3;2;3;3;4;4;4;2;4;4;3;1;5;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;21;3;4;2;1;1;2;1;2;3;4;3;2;2;1;1;1;1;1;1;1;2;4;2;No Stress - Currently experiencing minimal to no stress.;3. Médio
+Não Informado;19;2;1;2;4;3;3;2;2;4;3;1;1;2;2;1;1;1;1;1;1;2;3;1;No Stress - Currently experiencing minimal to no stress.;2. Baixo
+Não Informado;20;5;3;2;4;2;3;4;2;4;4;3;1;5;3;5;1;1;1;1;1;2;3;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;20;3;4;2;2;1;2;1;1;1;1;1;1;3;2;2;4;3;5;3;2;3;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;18;3;2;2;3;2;3;4;1;1;1;1;2;3;1;4;2;1;3;5;4;4;1;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;5;2;2;2;3;2;1;1;1;1;1;5;2;2;3;2;2;1;1;1;1;4;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;19;4;4;3;5;1;2;2;3;5;3;2;1;2;3;3;4;1;2;3;2;2;2;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;18;3;2;1;1;1;5;3;1;3;5;4;2;1;3;4;3;3;3;4;4;1;2;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;4;5;4;4;2;3;2;2;1;1;1;1;1;2;3;3;1;2;3;1;3;5;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;18;1;1;4;4;3;3;1;1;2;3;2;5;5;5;5;5;5;5;5;5;3;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;19;3;4;1;4;2;2;2;3;3;4;4;1;3;1;1;2;1;1;1;2;2;2;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;18;3;4;2;2;1;2;3;1;2;3;1;1;4;3;5;3;3;3;3;3;3;4;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;1;2;2;4;3;1;4;5;5;5;5;5;4;4;2;3;1;1;4;1;1;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;19;2;3;3;2;1;1;1;1;1;1;2;1;1;2;3;3;3;3;3;4;3;4;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;2;2;2;3;3;2;4;3;3;3;3;2;2;5;4;3;3;3;3;1;3;5;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;18;5;5;3;4;4;3;2;1;1;4;1;1;3;5;5;5;5;5;5;1;4;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;19;1;1;2;3;4;3;2;3;3;3;4;1;1;2;4;3;1;2;3;1;1;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;19;3;4;1;3;3;4;2;3;3;3;1;1;3;2;5;3;3;3;5;5;3;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;3;4;2;4;4;4;4;5;5;5;1;5;2;5;3;5;2;5;5;5;1;3;3;Distress (Negative Stress) - Stress that causes anxiety and impairs well-being.;3. Médio
+Não Informado;21;4;4;4;4;4;5;3;1;2;3;1;1;2;1;3;1;3;2;2;2;2;2;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;19;3;2;2;2;2;3;3;3;3;5;5;1;2;1;3;3;3;3;4;4;1;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;4;4;4;2;1;3;2;2;5;5;5;1;5;3;2;1;2;4;2;1;3;1;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;14;2;2;1;4;2;3;5;3;2;2;2;2;3;5;4;2;5;4;3;1;2;4;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;2;3;1;2;1;2;2;3;3;4;4;3;1;1;1;1;2;2;1;2;1;1;2;No Stress - Currently experiencing minimal to no stress.;2. Baixo
+Não Informado;19;5;4;3;4;3;4;3;4;2;4;3;3;2;3;2;5;1;2;1;5;1;2;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;17;3;3;4;4;3;4;5;2;1;4;4;4;3;3;2;2;3;2;2;3;4;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;4;3;3;1;3;4;4;4;2;1;2;2;2;1;1;1;1;3;2;1;2;2;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;21;4;4;2;4;5;5;4;5;4;4;4;4;4;3;4;3;4;4;3;3;2;5;2;Distress (Negative Stress) - Stress that causes anxiety and impairs well-being.;4. Alto
+Não Informado;19;5;4;3;4;3;1;2;1;4;2;4;3;1;2;3;1;4;1;1;1;1;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;36;3;2;1;1;3;5;4;5;5;3;4;4;4;4;2;2;2;2;3;4;3;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;21;3;2;4;3;3;2;1;5;2;3;2;1;2;2;2;2;1;4;3;1;1;3;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;21;3;4;4;1;2;3;4;4;4;4;5;4;5;5;1;1;3;1;1;2;3;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;3;2;1;2;2;1;3;4;2;3;2;3;4;5;2;2;2;2;1;4;3;5;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;4;4;2;3;2;2;3;4;3;5;2;4;1;2;3;1;1;2;1;2;4;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;20;5;4;2;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;1;3;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;19;4;3;3;3;4;1;2;4;3;3;1;3;4;4;3;1;2;3;2;3;3;3;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;19;3;4;2;1;1;1;1;2;2;1;1;1;1;1;2;2;1;2;2;3;1;3;3;No Stress - Currently experiencing minimal to no stress.;3. Médio
+Não Informado;19;4;4;3;5;5;5;5;5;5;5;5;5;5;5;5;5;5;5;5;5;2;2;3;Distress (Negative Stress) - Stress that causes anxiety and impairs well-being.;4. Alto
+Não Informado;20;1;1;2;1;1;1;2;2;3;2;2;2;1;2;3;1;1;2;1;2;4;3;1;No Stress - Currently experiencing minimal to no stress.;1. Muito Baixo
+Não Informado;22;5;2;2;2;3;2;2;2;1;2;3;1;1;2;1;2;1;2;1;2;5;5;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;19;4;4;2;2;2;2;5;2;2;2;2;2;1;2;2;2;3;3;1;1;3;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;19;4;5;4;2;2;2;1;2;5;3;2;3;2;2;2;1;1;3;5;2;1;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;19;3;2;2;2;2;2;2;2;3;4;2;4;2;2;2;2;1;3;3;2;5;5;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;18;4;2;5;2;2;2;2;3;3;1;2;3;2;2;2;2;2;2;2;2;3;5;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;28;2;2;1;2;2;3;3;2;2;1;2;1;2;2;3;2;2;2;1;1;4;5;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;3;4;2;3;3;2;3;3;2;2;3;4;3;4;4;3;3;2;2;2;2;5;5;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;4;3;2;1;4;2;2;4;4;4;2;1;2;1;1;2;1;5;1;1;5;1;5;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;20;4;4;4;4;1;2;2;2;2;1;1;3;2;3;1;2;2;5;4;3;1;3;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;19;5;5;2;4;4;4;4;2;3;1;1;1;1;5;4;1;1;5;1;2;5;5;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;19;4;3;2;1;1;2;2;5;4;3;1;1;2;1;3;1;2;5;3;2;4;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;21;4;2;3;2;1;5;4;3;3;4;4;3;3;2;3;3;3;2;1;1;5;4;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;41;2;1;4;2;4;1;1;4;3;3;1;3;3;1;1;2;1;5;1;2;2;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;18;3;3;3;3;1;2;1;4;4;2;4;3;2;3;1;2;2;3;4;1;5;5;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;21;2;2;5;2;1;2;2;5;4;3;4;3;2;2;4;1;1;1;2;3;1;4;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;32;4;3;1;3;1;4;3;3;2;1;1;1;2;5;1;1;1;1;2;1;3;2;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;20;3;2;3;2;2;2;2;3;2;4;3;3;2;4;4;4;2;2;3;4;4;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;21;4;2;3;1;2;2;1;3;4;4;1;3;3;2;1;1;1;1;2;3;4;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;19;2;2;3;2;3;3;4;3;2;1;2;5;4;3;1;2;2;3;2;1;2;2;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;2;2;3;4;1;4;4;4;4;2;2;3;2;3;4;2;5;2;2;3;2;5;5;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;5;5;5;2;3;3;1;5;4;2;1;3;2;3;1;2;2;3;4;3;5;3;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;20;3;2;3;4;2;5;5;4;3;3;5;3;3;3;1;2;3;2;1;1;2;5;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;4;3;3;4;4;1;4;4;1;1;2;3;2;2;2;2;1;1;2;1;5;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;18;3;2;2;2;2;1;1;1;1;1;5;5;5;5;5;5;5;3;2;3;4;5;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;18;3;4;4;2;3;5;2;1;5;4;3;3;1;3;3;1;3;2;3;3;3;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;37;3;2;3;4;5;5;5;4;5;4;4;2;4;3;2;3;4;3;2;2;4;3;5;Distress (Negative Stress) - Stress that causes anxiety and impairs well-being.;3. Médio
+Não Informado;15;2;1;3;4;5;1;1;3;2;1;2;1;2;2;3;2;3;1;3;2;1;3;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;4;5;3;4;5;3;2;3;1;1;3;2;2;2;1;1;3;4;4;3;4;5;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;21;5;4;4;4;2;4;4;4;2;3;2;4;2;1;1;3;1;4;1;1;4;4;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;21;3;2;1;4;5;3;1;3;1;1;1;5;3;1;1;4;4;2;2;3;2;1;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;21;2;1;5;5;5;5;5;5;1;4;2;3;1;1;1;2;2;1;4;3;2;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;21;2;3;1;5;5;1;2;1;4;3;3;2;1;1;1;2;2;3;1;1;3;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;4;4;4;2;1;2;2;3;2;1;2;3;4;2;2;3;5;2;4;3;4;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;21;4;3;2;2;4;2;5;2;2;3;5;3;1;1;1;2;3;1;1;1;2;3;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;21;2;1;3;3;1;2;2;3;4;3;3;4;2;2;3;2;2;2;1;3;3;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;22;4;4;2;2;1;2;3;2;1;1;2;1;2;5;2;2;4;5;5;5;2;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;20;2;1;5;3;1;1;1;1;2;1;1;4;2;2;3;4;3;1;3;5;4;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;2;2;1;2;2;3;4;3;2;3;2;3;2;3;2;1;4;3;4;5;2;4;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;21;2;3;4;1;2;3;3;2;3;3;3;3;1;1;1;2;5;2;3;2;3;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;4;3;3;3;3;4;5;3;2;3;1;1;3;2;2;2;1;1;3;4;3;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;20;4;3;4;2;4;4;2;4;4;4;2;3;2;4;2;1;1;3;1;2;1;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;20;4;4;2;2;1;4;5;3;1;3;1;1;1;5;3;1;1;4;4;3;2;3;5;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;19;1;3;2;5;5;5;5;5;5;5;1;4;2;3;1;1;1;2;2;1;2;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;22;2;2;3;3;1;5;5;1;2;1;4;3;3;2;1;1;1;2;2;2;4;2;5;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;4;4;1;3;4;2;1;2;2;3;2;1;2;3;4;2;2;3;5;5;2;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;20;2;3;2;1;2;2;4;2;5;2;2;3;5;3;1;1;1;2;3;2;2;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;2;1;2;2;3;3;1;2;2;3;4;3;3;4;2;2;3;2;2;2;2;2;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;3;4;3;2;2;2;1;2;3;2;1;1;2;1;2;5;2;2;4;4;4;4;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;2;3;3;5;5;3;1;1;1;1;1;3;2;1;2;3;3;2;3;2;4;4;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;21;3;3;3;1;1;2;2;3;4;3;4;4;3;3;2;2;2;3;4;4;4;3;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;15;4;3;2;3;4;1;2;2;1;2;1;1;2;1;5;1;1;1;5;4;3;3;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;17;4;3;5;3;4;2;3;1;3;2;3;1;2;2;5;4;3;4;3;2;2;5;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;21;2;2;1;4;4;4;1;1;1;1;5;4;1;1;5;1;2;1;3;3;2;2;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;18;4;2;3;3;2;2;3;1;1;2;1;3;1;2;5;3;2;3;3;4;1;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;21;2;2;2;4;4;4;2;4;3;3;2;3;3;3;2;1;1;5;3;2;1;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;3;2;2;2;2;1;1;1;3;3;1;1;2;1;5;1;2;1;2;3;4;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;3;4;4;2;3;1;1;4;3;2;3;1;2;2;3;4;1;1;4;3;1;4;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;3;2;2;5;4;3;1;4;3;2;2;4;1;1;1;2;3;2;1;1;2;5;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;28;4;5;4;3;3;4;4;1;1;2;5;1;1;1;1;2;1;1;4;3;2;5;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;18;1;1;1;4;3;3;1;3;3;2;4;4;4;2;2;3;4;2;1;1;1;1;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;19;1;2;1;4;4;2;4;1;3;3;2;1;1;1;1;2;3;3;2;2;2;4;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;19;4;2;2;5;4;3;4;2;5;4;3;1;2;2;3;2;1;2;1;1;1;1;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;19;3;4;3;3;2;1;1;2;3;2;3;4;2;5;2;2;3;5;1;5;3;5;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;3;2;2;3;2;4;3;1;3;2;3;1;2;2;3;4;3;3;2;3;5;3;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;2;2;1;3;4;4;1;5;3;3;3;1;2;3;2;1;1;2;3;3;3;5;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;18;3;3;4;3;2;1;2;1;2;1;2;1;1;1;1;2;1;1;5;5;4;4;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;4;4;4;4;4;2;2;4;1;2;3;2;3;4;3;2;3;2;4;2;2;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;21;2;3;1;5;4;2;1;3;3;2;3;2;3;3;2;3;3;3;2;2;2;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;18;5;5;5;4;3;3;5;4;4;4;3;3;2;2;3;2;2;3;5;5;5;4;5;Distress (Negative Stress) - Stress that causes anxiety and impairs well-being.;5. Muito Alto
+Não Informado;19;2;1;1;3;4;2;1;1;2;2;2;1;1;1;1;3;2;1;1;1;1;3;1;No Stress - Currently experiencing minimal to no stress.;2. Baixo
+Não Informado;17;4;3;4;4;4;3;4;4;4;4;4;3;4;3;4;4;3;3;3;4;4;2;4;Distress (Negative Stress) - Stress that causes anxiety and impairs well-being.;4. Alto
+Não Informado;19;3;3;1;1;1;2;3;2;4;3;1;2;3;1;4;1;1;1;3;4;2;5;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;18;4;3;4;5;2;1;4;3;4;4;4;4;2;2;2;2;3;4;3;1;2;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;20;3;3;4;4;4;2;1;3;2;1;2;2;2;2;1;4;3;1;2;1;1;1;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;18;5;5;5;4;5;4;4;4;5;4;5;5;1;1;3;1;1;2;5;5;5;3;5;Distress (Negative Stress) - Stress that causes anxiety and impairs well-being.;5. Muito Alto
+Não Informado;18;2;3;1;2;1;4;2;1;2;4;1;1;5;5;2;4;3;2;3;2;2;2;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;4;3;5;4;5;5;3;3;4;3;2;2;1;1;1;1;1;1;3;4;4;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;19;2;3;2;1;5;2;3;1;1;4;4;2;4;1;3;3;2;1;1;3;3;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;3;2;3;4;4;4;4;2;3;5;4;3;4;2;5;4;3;1;2;3;3;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;3;2;1;1;1;2;1;1;1;3;2;1;1;2;3;2;3;4;2;2;4;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;2;1;3;2;2;3;3;1;4;3;2;4;3;1;3;2;3;1;2;2;3;1;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;2;2;5;3;2;3;1;4;3;3;4;4;1;5;3;3;3;1;2;1;1;2;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;18;3;2;2;4;4;4;2;2;1;3;2;1;2;1;2;1;2;1;1;1;3;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;18;2;1;5;3;1;3;1;2;3;4;4;2;2;4;1;2;3;2;3;2;1;1;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;21;2;2;5;5;5;5;1;4;2;5;4;2;1;3;3;2;3;2;3;1;1;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;18;3;4;5;1;2;1;4;3;3;4;3;3;5;4;4;4;3;3;2;3;3;2;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;24;2;3;1;2;2;3;2;1;2;3;4;2;1;1;2;2;2;1;1;4;5;5;5;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;21;3;4;4;2;5;2;2;3;5;4;4;3;4;4;4;4;4;3;4;2;2;1;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;21;1;2;1;2;2;3;4;3;3;1;1;2;3;2;4;3;1;2;3;2;2;2;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;19;4;2;1;2;3;2;1;1;2;5;2;1;4;3;4;4;4;4;2;3;5;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;18;3;2;1;1;1;1;2;1;1;4;4;2;1;3;2;1;2;2;2;1;1;1;1;No Stress - Currently experiencing minimal to no stress.;3. Médio
+Não Informado;20;2;2;2;3;4;3;2;3;2;4;5;4;4;4;5;4;5;5;1;3;3;4;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;3;4;2;3;3;2;3;3;3;2;1;4;2;1;2;4;1;1;5;3;2;2;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;2;3;3;2;2;3;2;2;3;4;5;5;3;3;4;3;2;2;1;1;4;2;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;1;1;1;1;1;1;3;2;1;1;5;2;3;1;1;3;2;2;2;1;1;1;2;No Stress - Currently experiencing minimal to no stress.;1. Muito Baixo
+Não Informado;19;2;1;3;4;3;4;4;3;3;4;4;4;4;2;3;2;4;2;1;1;1;4;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;17;3;2;2;1;2;1;1;2;1;1;1;2;1;1;1;1;5;3;1;1;2;4;3;No Stress - Currently experiencing minimal to no stress.;3. Médio
+Não Informado;17;3;3;1;3;2;3;1;2;2;2;2;3;3;1;4;2;3;1;1;1;2;3;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;18;3;3;1;1;1;5;4;1;1;3;2;3;1;4;3;3;2;1;1;1;3;5;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;3;3;1;1;2;1;3;1;2;4;4;4;2;2;1;2;3;4;2;4;5;4;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;18;3;3;4;3;3;2;3;3;1;4;3;2;1;4;3;2;3;1;1;1;1;5;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;18;4;2;1;3;3;1;1;2;4;3;3;4;4;3;3;4;1;1;1;1;1;5;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;19;3;2;4;3;2;3;1;2;2;1;3;2;2;1;3;2;1;1;1;5;5;4;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;18;3;3;4;3;2;2;4;1;2;3;4;4;2;3;4;4;4;2;2;2;2;4;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;3;3;1;1;2;5;1;1;4;2;5;4;4;2;5;4;1;1;1;2;3;2;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;2;3;3;3;2;4;4;4;3;3;4;3;3;3;4;3;2;2;3;1;2;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;3;3;1;3;3;2;1;1;1;2;3;4;1;2;3;4;1;1;5;2;1;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;2;3;2;5;4;3;1;2;3;5;4;4;3;5;4;4;3;2;2;5;4;5;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;2;3;2;3;2;3;4;2;3;3;1;1;3;3;1;1;3;3;4;3;3;4;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;2;2;1;3;2;3;1;2;1;2;5;2;1;2;5;2;4;1;1;1;3;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;5;2;5;3;3;3;1;2;1;1;4;4;1;1;4;4;1;1;1;1;5;1;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;19;2;3;1;2;1;2;1;1;3;2;4;5;3;2;4;5;4;4;2;2;1;2;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;1;1;4;1;2;3;2;3;3;3;2;1;3;3;2;1;1;1;1;1;1;1;1;No Stress - Currently experiencing minimal to no stress.;1. Muito Baixo
+Não Informado;19;3;4;3;3;2;3;2;3;2;3;4;5;2;3;4;5;1;2;2;3;2;4;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;3;2;4;4;4;3;3;2;2;1;1;5;2;1;1;5;4;2;5;2;3;2;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;21;4;2;1;2;2;2;1;1;3;3;4;4;3;3;4;4;1;2;2;3;2;2;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;19;3;2;4;4;4;4;3;4;2;1;1;1;2;1;1;1;1;2;3;2;3;2;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;24;3;2;2;4;3;1;2;1;2;2;2;2;2;2;2;2;5;1;1;1;2;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;3;2;3;4;4;4;1;1;1;1;3;2;1;1;3;2;4;3;4;3;3;3;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;2;3;3;2;1;2;3;2;1;2;4;4;1;2;4;4;4;3;3;2;2;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;4;3;4;5;4;2;1;1;3;3;3;1;3;3;3;1;2;2;2;3;3;4;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;19;2;2;1;2;4;3;4;2;2;1;5;5;2;1;5;5;4;1;1;1;1;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;2;2;3;4;3;2;3;3;2;2;1;2;2;2;1;2;4;1;3;4;3;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;4;3;4;1;4;2;1;2;1;1;2;2;1;1;2;2;5;1;1;4;1;2;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;18;3;4;2;1;1;2;3;5;1;1;2;5;1;1;2;5;4;4;5;5;3;4;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;4;3;3;5;2;4;3;3;4;2;2;2;4;2;2;2;4;3;5;3;1;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;19;2;2;5;5;5;1;1;2;1;1;1;2;1;1;1;2;1;4;1;2;4;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;3;3;5;1;1;2;1;1;2;2;3;2;2;2;3;2;2;4;2;5;2;4;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;1;2;5;3;2;2;3;2;2;5;2;2;2;5;2;2;1;3;3;3;3;4;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;19;2;2;3;2;3;3;3;3;2;2;3;4;2;2;3;4;4;2;5;4;1;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;4;2;3;5;5;2;2;3;2;3;2;1;2;3;2;1;2;2;2;3;5;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;20;3;2;2;2;1;3;2;1;1;1;1;2;1;1;1;2;2;1;1;5;4;4;2;No Stress - Currently experiencing minimal to no stress.;3. Médio
+Não Informado;20;1;1;2;1;2;4;3;3;3;4;3;2;3;4;3;2;2;1;1;1;4;4;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;19;3;4;3;5;4;1;1;1;3;3;2;3;3;3;2;3;4;4;3;3;3;3;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;1;2;3;2;1;2;3;4;2;2;3;2;2;2;3;2;3;1;1;3;4;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;20;3;3;2;3;4;4;3;1;1;1;1;3;1;1;1;3;4;2;3;4;4;4;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;4;3;2;1;1;1;1;2;4;3;4;4;4;3;4;4;4;2;3;5;1;3;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;20;2;2;1;3;2;4;3;2;1;4;1;2;1;4;1;2;3;1;4;3;4;1;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;5;2;2;3;2;1;1;1;1;3;3;3;1;3;3;3;3;2;1;3;4;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;21;4;3;2;1;1;2;2;2;2;3;5;3;2;3;5;3;2;1;3;3;4;2;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;19;2;2;1;3;2;1;1;1;1;4;2;4;1;4;2;4;4;3;1;3;3;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;3;2;2;2;2;1;5;3;2;3;3;3;2;3;3;3;3;5;2;2;3;2;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;21;3;3;4;3;2;2;3;5;3;2;3;1;3;2;3;1;3;3;4;3;4;5;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;3;2;3;2;3;3;4;5;2;1;3;1;2;1;3;1;5;4;5;5;4;4;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;22;2;3;4;2;2;4;4;2;4;4;4;2;3;4;3;4;2;2;3;4;1;5;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;21;1;1;2;1;2;1;4;5;3;1;3;1;2;3;2;2;2;2;1;3;5;3;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;22;4;4;2;1;5;5;5;5;5;5;5;1;5;5;5;5;5;5;5;5;5;4;2;Distress (Negative Stress) - Stress that causes anxiety and impairs well-being.;4. Alto
+Não Informado;20;1;3;2;1;3;1;5;5;1;2;1;4;3;3;1;3;3;1;3;5;4;2;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;22;4;2;2;3;2;1;3;5;3;3;1;4;4;2;4;3;2;3;4;5;4;2;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;22;4;3;4;1;1;1;3;1;4;1;2;5;4;3;4;3;2;2;1;5;1;1;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;19;3;2;3;5;5;4;5;4;3;4;3;3;2;1;1;1;2;5;5;5;3;4;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;1;1;1;1;1;1;3;2;3;1;2;3;2;4;3;3;2;4;2;2;3;4;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;19;1;2;1;1;4;5;4;4;5;1;1;3;4;4;1;3;3;2;4;4;4;5;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;19;2;3;2;2;2;1;3;1;3;1;4;3;2;1;2;5;4;3;1;4;4;2;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;2;3;3;5;5;5;5;5;5;5;4;4;4;2;2;3;2;3;5;5;5;3;1;Distress (Negative Stress) - Stress that causes anxiety and impairs well-being.;2. Baixo
+Não Informado;20;2;3;3;1;1;2;1;2;1;2;3;1;1;1;2;1;2;1;1;2;4;4;2;No Stress - Currently experiencing minimal to no stress.;2. Baixo
+Não Informado;19;3;3;3;5;5;5;3;5;2;5;4;3;3;1;3;4;2;1;2;3;4;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;2;3;3;2;2;3;5;2;1;2;5;2;5;1;3;2;2;3;1;3;3;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;4;4;2;2;3;2;4;3;2;3;4;4;4;3;4;1;2;3;4;4;3;2;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;20;3;3;2;3;1;2;3;1;1;3;2;1;3;2;3;3;3;4;2;1;3;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;21;3;3;3;3;4;5;5;5;4;5;5;4;5;3;3;5;3;4;3;4;4;3;1;Distress (Negative Stress) - Stress that causes anxiety and impairs well-being.;3. Médio
+Não Informado;19;2;3;3;1;2;2;4;3;1;2;1;4;1;2;3;4;4;1;1;5;4;4;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;3;2;3;4;3;3;3;3;4;1;1;3;3;3;4;2;1;5;5;4;3;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;21;3;3;3;1;1;1;2;1;2;3;2;3;5;3;4;3;4;2;2;4;4;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;3;2;3;1;1;4;2;2;2;1;1;4;2;4;3;3;2;2;3;2;2;2;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;3;2;3;2;2;2;4;4;3;4;2;3;3;3;3;3;3;1;2;4;4;2;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;21;4;1;1;5;5;1;5;5;2;3;3;2;3;1;1;1;5;2;1;4;4;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;19;1;3;1;5;1;1;3;1;2;1;2;1;3;1;3;2;2;5;4;5;2;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;17;1;1;2;5;3;3;2;1;2;3;5;3;3;3;3;3;4;3;3;4;2;5;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;20;5;5;1;2;1;3;3;2;4;3;3;3;2;2;4;1;1;1;3;4;5;1;5;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;18;2;1;3;4;1;5;4;4;1;1;2;1;2;5;1;1;1;1;5;1;2;5;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;1;2;3;2;3;1;5;1;2;1;1;3;2;4;4;4;2;2;1;2;2;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;18;2;2;2;4;4;4;4;1;1;1;2;1;2;3;1;2;2;4;2;2;3;5;5;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;2;2;3;3;4;1;3;1;2;2;3;2;2;3;1;2;3;2;4;4;3;3;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;18;2;4;4;3;4;1;3;4;2;1;3;4;4;4;2;3;4;3;3;3;2;4;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;18;2;2;4;2;1;1;2;2;4;1;2;1;1;4;2;4;3;1;1;1;3;5;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;17;2;5;3;5;1;1;2;3;2;3;3;4;4;4;2;4;4;3;1;5;4;4;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;18;5;1;1;2;1;2;3;4;3;2;2;1;1;1;1;1;1;1;2;4;3;4;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;17;2;4;3;3;2;2;4;3;1;1;2;2;1;1;1;1;1;1;2;3;2;4;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;18;1;4;2;3;4;2;4;4;3;1;5;3;5;1;1;1;1;1;2;3;4;4;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;18;1;2;1;2;1;1;1;1;1;1;3;2;2;4;3;5;3;2;3;3;2;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;19;1;3;2;3;4;1;1;1;1;2;3;1;4;2;1;3;5;4;4;1;5;5;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;19;5;2;3;2;1;1;1;1;1;5;2;2;3;2;2;1;1;1;1;4;5;5;5;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;19;2;5;1;2;2;3;5;3;2;1;2;3;3;4;1;2;3;2;2;2;2;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;18;1;1;1;5;3;1;3;5;4;2;1;3;4;3;3;3;4;4;1;2;1;4;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;19;5;4;2;3;2;2;1;1;1;1;1;2;3;3;1;2;3;1;3;5;3;3;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;19;2;4;3;3;1;1;2;3;2;5;5;5;5;5;5;5;5;5;3;3;2;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;18;3;4;2;2;2;3;3;4;4;1;3;1;1;2;1;1;1;2;2;2;5;4;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;17;1;2;1;2;3;1;2;3;1;1;4;3;5;3;3;3;3;3;3;4;1;1;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;19;4;4;3;1;4;5;5;5;5;5;4;4;2;3;1;1;4;1;1;3;4;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;18;4;2;1;1;1;1;1;1;2;1;1;2;3;3;3;3;3;4;3;4;4;4;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;19;2;3;3;2;4;3;3;3;3;2;2;5;4;3;3;3;3;1;3;5;2;4;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;21;4;4;4;3;2;1;1;4;1;1;3;5;5;5;5;5;5;1;4;3;3;3;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;20;4;3;4;3;2;3;3;3;4;1;1;2;4;3;1;2;3;1;1;3;5;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;20;5;3;3;4;2;3;3;3;1;1;3;2;5;3;3;3;5;5;3;3;3;4;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;21;4;4;4;4;4;5;5;5;1;5;2;5;3;5;2;5;5;5;1;3;5;4;3;Distress (Negative Stress) - Stress that causes anxiety and impairs well-being.;4. Alto
+Não Informado;20;2;4;4;5;3;1;2;3;1;1;2;1;3;1;3;2;2;2;2;2;4;1;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;4;2;2;3;3;3;3;5;5;1;2;1;3;3;3;3;4;4;1;4;3;5;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;20;5;2;1;3;2;2;5;5;5;1;5;3;2;1;2;4;2;1;3;1;5;5;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;21;5;4;2;3;5;3;2;2;2;2;3;5;4;2;5;4;3;1;2;4;5;4;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;20;5;2;1;2;2;3;3;4;4;3;1;1;1;1;2;2;1;2;1;1;5;4;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;21;2;4;3;4;3;4;2;4;3;3;2;3;2;5;1;2;1;5;1;2;5;1;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;4;1;2;1;1;1;2;1;4;1;2;3;4;4;1;3;2;2;5;5;5;3;5;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;21;2;5;2;2;1;4;1;1;3;3;3;4;2;1;3;3;3;4;3;2;2;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;4;2;5;3;5;2;3;2;3;5;3;4;3;4;2;4;1;1;1;4;4;4;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;20;4;2;3;2;2;2;1;1;4;2;4;3;3;2;5;1;1;1;1;1;4;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;21;5;3;3;1;4;3;4;2;3;3;3;3;3;3;4;4;4;2;2;5;5;5;5;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;21;3;3;2;2;3;2;3;3;2;3;1;1;1;5;2;1;1;1;1;1;2;4;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;21;5;1;2;3;3;2;1;2;1;3;1;3;2;2;3;1;2;2;3;2;3;4;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;22;2;4;3;3;4;2;3;5;3;3;3;3;3;4;3;4;2;5;2;1;3;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;4;1;1;3;2;4;3;3;3;2;2;4;1;1;3;1;2;2;3;4;4;3;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;22;2;1;1;3;2;1;1;2;1;2;5;1;1;1;5;3;3;5;3;4;1;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;4;2;2;2;3;2;1;1;3;2;4;4;4;2;1;2;3;4;4;1;4;4;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;20;3;2;2;2;5;2;3;2;3;3;2;1;1;1;3;3;4;2;1;5;2;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;2;3;3;4;3;3;3;3;5;4;3;1;2;2;5;3;4;3;4;2;3;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;21;1;1;2;2;3;3;3;5;4;3;1;2;2;3;2;4;3;3;2;2;5;4;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;21;3;2;3;2;1;2;3;3;2;3;4;2;5;2;3;3;3;3;3;1;2;2;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;4;4;5;3;5;2;1;3;2;3;1;2;2;3;3;1;1;1;5;2;4;4;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;20;3;4;2;4;2;3;3;3;3;3;1;2;3;2;3;1;3;2;2;5;3;1;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;2;3;1;1;2;1;1;2;1;2;1;1;1;1;3;3;3;3;4;3;1;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;5;4;3;1;2;3;4;1;2;3;2;3;4;3;2;2;4;1;1;1;1;2;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;20;3;4;3;3;2;3;1;3;2;3;2;3;3;2;2;5;1;1;1;1;1;5;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;3;3;3;3;2;1;2;4;4;3;3;2;2;3;2;4;4;4;2;2;3;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;3;4;2;4;3;3;2;2;2;2;1;1;1;1;3;2;1;1;1;1;3;4;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;2;2;1;1;3;1;1;1;2;3;1;1;3;4;4;3;1;2;2;3;2;5;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;5;5;5;4;5;2;2;2;1;5;1;1;1;4;2;3;4;2;5;2;5;5;5;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;20;3;2;2;1;4;1;1;1;1;1;5;4;5;5;2;3;1;2;2;3;2;1;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;21;3;4;1;4;4;5;3;3;3;3;2;3;5;3;3;3;1;2;3;2;3;1;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;2;1;1;2;2;3;5;2;1;3;2;4;1;2;1;2;1;1;1;1;3;5;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;5;3;2;2;3;3;3;4;3;1;3;5;5;3;2;3;2;3;4;3;3;3;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;20;3;4;2;2;2;2;2;2;4;1;5;1;5;4;1;3;4;2;2;3;2;2;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;18;3;2;2;4;4;4;4;1;1;1;2;1;2;3;1;2;2;4;2;2;2;1;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;5;2;3;3;4;1;3;1;2;2;3;2;2;3;1;2;3;2;4;4;2;2;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;19;4;4;4;3;4;1;3;4;2;1;3;4;4;4;2;3;4;3;3;3;3;5;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;18;3;2;4;2;1;1;2;2;4;1;2;1;1;4;2;4;3;1;1;1;3;4;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;4;5;3;5;1;1;2;3;2;3;3;4;4;4;2;4;4;3;1;5;2;4;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;18;1;1;1;2;1;2;3;4;3;2;2;1;1;1;1;1;1;1;2;4;1;5;2;No Stress - Currently experiencing minimal to no stress.;1. Muito Baixo
+Não Informado;19;3;4;3;3;2;2;4;3;1;1;2;2;1;1;1;1;1;1;2;3;2;3;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;18;3;4;2;3;4;2;4;4;3;1;5;3;5;1;1;1;1;1;2;3;3;2;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;1;2;1;2;1;1;1;1;1;1;3;2;2;4;3;5;3;2;3;3;2;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;19;2;3;2;3;4;1;1;1;1;2;3;1;4;2;1;3;5;4;4;1;5;3;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;2;2;3;2;1;1;1;1;1;5;2;2;3;2;2;1;1;1;1;4;3;4;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;18;5;5;1;2;2;3;5;3;2;1;2;3;3;4;1;2;3;2;2;2;2;1;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;19;1;1;1;5;3;1;3;5;4;2;1;3;4;3;3;3;4;4;1;2;1;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;19;3;4;2;3;2;2;1;1;1;1;1;2;3;3;1;2;3;1;3;5;2;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;3;4;3;3;1;1;2;3;2;5;5;5;5;5;5;5;5;5;3;3;3;3;3;Distress (Negative Stress) - Stress that causes anxiety and impairs well-being.;3. Médio
+Não Informado;21;4;4;2;2;2;3;3;4;4;1;3;1;1;2;1;1;1;2;2;2;3;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;19;3;2;1;2;3;1;2;3;1;1;4;3;5;3;3;3;3;3;3;4;1;2;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;4;4;3;1;4;5;5;5;5;5;4;4;2;3;1;1;4;1;1;3;3;2;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;14;2;2;1;1;1;1;1;1;2;1;1;2;3;3;3;3;3;4;3;4;1;5;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;2;3;3;2;4;3;3;3;3;2;2;5;4;3;3;3;3;1;3;5;2;5;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;5;4;4;3;2;1;1;4;1;1;3;5;5;5;5;5;5;1;4;3;1;5;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;17;3;3;4;3;2;3;3;3;4;1;1;2;4;3;1;2;3;1;1;3;2;5;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;4;3;3;4;2;3;3;3;1;1;3;2;5;3;3;3;5;5;3;3;3;2;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;21;4;4;4;4;4;5;5;5;1;5;2;5;3;5;2;5;5;5;1;3;1;5;2;Distress (Negative Stress) - Stress that causes anxiety and impairs well-being.;4. Alto
+Não Informado;19;5;4;4;5;3;1;2;3;1;1;2;1;3;1;3;2;2;2;2;2;3;2;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;36;3;2;2;3;3;3;3;5;5;1;2;1;3;3;3;3;4;4;1;4;1;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;21;3;2;1;3;2;2;5;5;5;1;5;3;2;1;2;4;2;1;3;1;3;2;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;21;3;4;2;3;5;3;2;2;2;2;3;5;4;2;5;4;3;1;2;4;2;2;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;3;2;1;2;2;3;3;4;4;3;1;1;1;1;2;2;1;2;1;1;2;3;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;4;4;3;4;3;4;2;4;3;3;2;3;2;5;1;2;1;5;1;2;4;5;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;20;5;4;3;4;3;3;3;3;3;3;3;1;3;1;2;1;1;4;2;1;4;5;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;19;4;3;1;3;2;2;3;1;1;1;3;5;4;3;3;4;3;1;1;1;2;5;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;19;3;4;4;5;3;1;3;1;3;2;3;3;4;4;2;3;2;4;1;2;3;5;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;4;4;2;3;2;3;3;3;3;3;3;3;3;3;2;2;2;2;2;3;4;2;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;20;1;1;2;2;2;3;3;3;3;3;1;4;4;4;3;3;3;2;5;5;2;4;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;22;5;2;3;5;5;1;4;1;2;1;1;2;3;3;1;3;2;2;3;4;5;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;19;4;4;2;4;3;1;1;1;2;1;3;4;5;4;2;3;3;3;2;2;3;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;19;4;5;4;4;3;1;1;1;5;1;2;2;2;4;1;1;1;1;5;5;1;2;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;19;3;2;2;1;2;5;3;2;1;2;4;4;1;1;1;4;2;5;1;1;2;5;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;18;4;2;3;2;2;3;5;4;2;5;1;3;1;2;2;1;2;2;3;3;2;4;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;28;2;2;1;4;1;1;1;1;1;2;1;3;4;2;1;5;2;3;2;3;4;4;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;3;4;2;2;1;2;3;2;5;1;1;2;2;4;1;1;1;1;4;3;2;5;5;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;4;3;3;3;5;3;4;4;1;2;1;2;3;2;3;1;2;2;3;2;5;1;5;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;20;4;4;3;3;3;5;5;5;5;5;2;3;4;3;2;1;2;2;3;5;1;3;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;19;5;5;5;4;4;2;1;2;4;3;1;2;3;1;1;1;1;1;1;3;5;5;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;19;4;3;5;5;4;4;2;2;5;3;3;3;5;5;1;3;4;2;2;5;4;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;21;4;2;2;4;1;2;5;5;3;5;2;5;5;5;1;1;2;5;3;2;5;4;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;41;2;1;1;1;2;1;1;2;2;1;2;1;2;1;2;1;2;3;1;3;2;4;2;No Stress - Currently experiencing minimal to no stress.;2. Baixo
+Não Informado;18;3;3;2;4;3;1;1;4;5;4;2;2;4;2;2;1;3;5;2;2;5;5;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;21;2;2;1;1;1;5;5;5;3;4;4;4;3;3;2;1;2;4;1;2;1;4;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;32;4;3;1;5;3;3;1;2;4;3;1;1;4;5;1;1;1;1;3;4;3;2;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;20;3;2;2;3;2;2;1;3;2;2;2;2;2;3;2;1;1;1;2;1;4;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;21;4;2;1;2;2;1;1;2;3;2;2;3;3;2;2;1;1;1;1;2;4;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;19;2;2;3;1;2;1;1;2;2;3;2;1;2;3;2;5;4;3;1;1;2;2;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;2;2;4;3;5;2;3;2;2;3;3;3;2;2;2;2;3;3;3;3;2;5;5;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;1;4;2;1;3;5;4;3;2;3;1;1;2;3;5;3;5;5;5;4;5;3;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;20;2;3;2;2;1;2;2;3;2;3;3;1;1;2;1;2;2;4;1;3;2;5;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;3;3;4;1;2;4;3;1;2;2;1;1;2;2;2;3;2;2;2;2;5;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;18;4;5;2;5;3;2;2;1;1;2;1;1;2;2;2;2;1;5;3;1;4;5;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;18;1;4;4;4;3;3;4;1;1;2;2;1;2;1;2;1;2;1;2;3;3;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;37;4;4;3;2;3;2;3;1;1;4;5;4;2;2;4;2;2;1;3;5;4;3;5;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;15;2;2;3;3;3;5;5;5;5;5;3;4;4;4;3;3;2;1;2;4;1;3;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;2;3;3;4;1;2;2;3;1;2;4;3;1;1;4;5;1;1;1;1;4;5;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;21;2;2;3;3;1;1;2;3;2;3;1;1;2;2;2;3;2;1;1;1;4;4;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;21;4;4;3;5;3;1;1;3;2;3;3;1;2;3;3;2;2;1;1;1;2;1;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;21;3;4;4;4;2;3;2;1;2;2;1;1;2;1;2;3;2;5;4;3;2;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;21;3;4;3;2;4;1;1;1;1;2;1;1;3;3;2;2;2;2;3;3;3;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;2;1;2;3;1;3;2;5;3;2;3;1;1;1;2;3;5;3;5;5;4;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;21;5;1;5;4;1;1;1;2;3;3;2;1;3;1;1;2;1;2;2;4;2;3;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;21;2;1;2;3;1;3;3;3;4;1;2;4;1;1;2;2;2;3;2;2;3;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;22;3;2;2;3;1;1;1;1;2;3;1;3;1;1;2;2;2;2;1;5;2;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;3;4;4;4;2;3;2;1;2;2;3;1;3;1;3;2;4;1;1;1;4;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;2;1;1;4;2;4;2;1;2;3;2;2;2;1;2;3;3;3;2;3;2;4;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;21;3;4;4;4;2;3;2;1;2;3;2;1;2;4;1;2;1;2;2;2;3;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;2;1;1;1;1;2;3;2;2;3;1;1;1;3;3;2;3;3;2;3;3;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;2;2;1;1;1;1;4;5;4;2;2;2;3;1;1;3;2;1;2;3;1;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;5;3;5;1;1;1;1;5;1;2;1;1;2;2;2;3;2;4;4;4;2;3;5;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;19;3;2;2;4;3;5;3;2;1;2;3;3;4;1;2;3;2;2;2;1;2;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;22;3;1;4;2;1;3;5;4;2;1;3;4;3;3;3;4;4;1;2;2;4;2;5;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;2;2;3;2;2;1;1;1;1;1;2;3;3;1;2;3;1;3;5;5;2;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;2;3;3;4;1;2;3;2;5;5;5;5;5;5;5;5;5;3;3;2;2;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;1;3;4;3;3;3;4;4;1;3;1;1;2;1;1;1;2;2;2;2;2;2;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;20;1;2;3;3;1;2;3;1;1;4;3;5;3;3;3;3;3;3;4;4;4;4;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;20;5;5;5;5;5;5;5;5;5;4;4;2;3;1;1;4;1;1;3;2;4;4;3;Distress (Negative Stress) - Stress that causes anxiety and impairs well-being.;5. Muito Alto
+Não Informado;21;3;1;1;2;1;1;1;2;1;1;2;3;3;3;3;3;4;3;4;4;4;3;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;15;4;3;5;3;3;3;3;3;2;2;5;4;3;3;3;3;1;3;5;4;3;3;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;17;4;4;2;3;1;1;4;1;1;3;5;5;5;5;5;5;1;4;3;2;2;5;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;21;1;2;3;3;3;3;3;4;1;1;2;4;3;1;2;3;1;1;3;3;2;2;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;18;2;5;4;3;3;3;3;1;1;3;2;5;3;3;3;5;5;3;3;4;1;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;21;3;5;5;5;5;5;5;1;5;2;5;3;5;2;5;5;5;1;3;2;1;3;3;Distress (Negative Stress) - Stress that causes anxiety and impairs well-being.;3. Médio
+Não Informado;20;1;2;4;3;1;2;3;1;1;2;1;3;1;3;2;2;2;2;2;3;4;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;20;3;2;5;3;3;3;5;5;1;2;1;3;3;3;3;4;4;1;4;3;1;4;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;2;5;3;5;2;5;5;5;1;5;3;2;1;2;4;2;1;3;1;1;2;5;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;28;2;1;3;1;3;2;2;2;2;3;5;4;2;5;4;3;1;2;4;3;2;5;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;18;2;1;3;3;3;3;4;4;3;1;1;1;1;2;2;1;2;1;1;1;1;1;1;No Stress - Currently experiencing minimal to no stress.;2. Baixo
+Não Informado;19;4;5;4;1;4;2;4;3;3;2;3;2;5;1;2;1;5;1;2;2;2;4;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;19;2;3;3;3;3;3;3;3;3;3;1;3;1;2;1;1;4;2;1;1;1;1;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;2;2;2;1;2;3;1;1;1;3;5;4;3;3;4;3;1;1;1;5;3;5;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;4;3;2;1;1;3;1;3;2;3;3;4;4;2;3;2;4;1;2;3;5;3;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;20;2;2;4;3;3;3;3;3;3;3;3;3;3;2;2;2;2;2;3;3;3;5;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;18;3;1;3;3;3;3;3;3;3;1;4;4;4;3;3;3;2;5;5;5;4;4;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;2;3;1;1;1;4;1;2;1;1;2;3;3;1;3;2;2;3;4;2;2;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;21;2;1;1;1;1;1;1;2;1;3;4;5;4;2;3;3;3;2;2;2;2;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;18;3;5;1;1;1;1;1;5;1;2;2;2;4;1;1;1;1;5;5;5;5;4;5;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;2;2;4;3;5;3;2;1;2;4;4;1;1;1;4;2;5;1;1;1;1;3;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;17;1;4;2;1;3;5;4;2;5;1;3;1;2;2;1;2;2;3;3;4;4;2;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;19;2;3;2;2;1;1;1;1;2;1;3;4;2;1;5;2;3;2;3;4;2;5;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;18;3;3;4;1;2;3;2;5;1;1;2;2;4;1;1;1;1;4;3;1;2;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;3;4;3;3;3;4;4;1;2;1;2;3;2;3;1;2;2;3;2;1;1;1;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;18;5;5;5;5;5;5;5;5;5;2;3;4;3;2;1;2;2;3;5;5;5;3;5;Distress (Negative Stress) - Stress that causes anxiety and impairs well-being.;5. Muito Alto
+Não Informado;18;2;3;4;1;2;1;2;4;3;1;2;3;1;1;1;1;1;1;3;2;2;2;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;2;3;1;2;4;2;2;5;3;3;3;5;5;1;3;4;2;2;5;4;4;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;5;4;2;4;2;5;5;3;5;2;5;5;5;1;1;2;5;3;2;3;3;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;20;3;2;3;4;1;1;2;2;1;2;1;2;1;2;1;2;3;1;3;3;3;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;4;2;2;3;1;1;4;5;4;2;2;4;2;2;1;3;5;2;2;2;4;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;19;5;5;5;5;5;5;5;3;4;4;4;3;3;2;1;2;4;1;2;2;3;1;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;20;2;5;2;2;3;1;2;4;3;1;1;4;5;1;1;1;1;3;4;1;1;2;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;18;2;1;1;1;2;1;3;2;2;2;2;2;3;2;1;1;1;2;1;1;3;3;3;No Stress - Currently experiencing minimal to no stress.;2. Baixo
+Não Informado;18;2;1;4;4;1;1;2;3;2;2;3;3;2;2;1;1;1;1;2;2;1;1;3;No Stress - Currently experiencing minimal to no stress.;2. Baixo
+Não Informado;21;3;2;2;3;1;1;2;2;3;2;1;2;3;2;5;4;3;1;1;1;1;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;18;2;2;2;2;2;3;2;2;3;3;3;2;2;2;2;3;3;3;3;3;3;2;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;24;5;5;4;5;5;4;3;2;3;1;1;2;3;5;3;5;5;5;4;4;5;5;5;Distress (Negative Stress) - Stress that causes anxiety and impairs well-being.;5. Muito Alto
+Não Informado;21;4;3;3;4;2;2;3;2;3;3;1;1;2;1;2;2;4;1;3;2;2;1;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;21;3;2;2;2;4;3;1;2;2;1;1;2;2;2;3;2;2;2;2;2;2;2;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;3;3;1;3;2;2;1;1;2;1;1;2;2;2;2;1;5;3;1;3;5;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;18;1;3;3;1;3;4;1;1;2;2;1;2;1;2;1;2;1;2;3;1;1;1;1;No Stress - Currently experiencing minimal to no stress.;1. Muito Baixo
+Não Informado;20;3;2;1;2;2;3;1;1;4;5;4;2;2;4;2;2;1;3;5;3;3;4;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;3;2;1;2;5;5;5;5;5;3;4;4;4;3;3;2;1;2;4;3;2;2;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;4;3;4;4;2;2;3;1;2;4;3;1;1;4;5;1;1;1;1;1;4;2;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;19;3;3;2;1;1;2;3;2;3;1;1;2;2;2;3;2;1;1;1;1;1;1;2;No Stress - Currently experiencing minimal to no stress.;3. Médio
+Não Informado;19;4;2;3;2;1;1;3;2;3;3;1;2;3;3;2;2;1;1;1;1;1;4;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;17;2;2;1;1;3;2;1;2;2;1;1;2;1;2;3;2;5;4;3;1;2;4;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;17;1;1;1;1;1;1;1;1;2;1;1;3;3;2;2;2;2;3;3;1;2;3;1;No Stress - Currently experiencing minimal to no stress.;1. Muito Baixo
+Não Informado;18;2;3;1;1;3;2;5;3;2;3;1;1;1;2;3;5;3;5;5;1;3;5;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;4;3;1;3;1;1;2;3;3;2;1;3;1;1;2;1;2;2;4;4;5;4;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;18;2;2;1;1;3;3;3;4;1;2;4;1;1;2;2;2;3;2;2;1;1;5;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;18;2;2;1;4;1;1;1;2;3;1;3;1;1;2;2;2;2;1;5;1;1;5;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;4;4;3;1;3;2;1;2;2;3;1;3;1;3;2;4;1;1;1;5;5;4;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;18;4;3;3;3;4;2;1;2;3;2;2;2;1;2;3;3;3;2;3;2;2;4;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;20;3;2;1;1;3;2;1;2;3;2;1;2;4;1;2;1;2;2;2;2;3;2;1;No Stress - Currently experiencing minimal to no stress.;3. Médio
+Não Informado;20;2;3;1;4;2;3;2;2;3;1;1;1;3;3;2;3;3;2;3;1;2;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;4;2;2;4;1;4;5;4;2;2;2;3;1;1;3;2;1;2;3;2;1;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;19;5;4;4;1;1;1;5;1;2;1;1;2;2;2;3;2;4;4;4;3;4;5;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;19;3;2;2;5;5;5;5;3;3;3;1;2;1;2;1;1;2;2;1;2;3;4;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;2;2;2;3;2;2;2;3;2;3;1;1;1;1;2;3;1;1;1;2;3;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;5;2;1;4;4;4;4;4;2;2;3;2;2;1;1;1;3;2;3;5;5;1;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;19;2;3;1;4;2;1;4;4;3;2;1;1;1;3;2;2;1;3;4;4;1;2;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;1;1;1;5;5;5;5;5;1;1;4;3;1;1;1;2;1;1;2;1;1;1;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;19;3;4;5;2;1;1;2;4;3;2;1;3;1;3;2;2;1;1;2;2;2;4;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;3;2;2;2;1;2;3;4;4;2;3;2;3;1;1;2;4;4;4;2;3;2;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;21;4;2;1;2;3;1;3;3;2;2;1;2;1;3;3;1;3;2;2;2;2;2;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;19;3;2;1;2;3;4;4;3;3;5;4;1;4;1;1;2;3;2;2;2;3;2;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;24;3;2;3;3;4;2;1;3;5;2;1;2;1;3;2;3;2;1;3;2;2;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;3;2;2;3;4;3;4;4;5;5;1;2;3;4;2;4;2;1;1;2;3;3;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;2;3;3;3;2;3;2;1;3;1;3;2;1;3;2;2;2;4;5;2;2;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;4;3;3;2;3;4;2;3;2;4;1;2;4;2;3;2;4;2;2;2;3;4;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;19;2;2;1;1;2;2;2;1;3;1;1;3;4;5;5;5;1;1;1;2;1;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;2;2;1;1;2;2;2;4;4;5;5;2;2;2;3;4;5;4;5;3;3;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;4;3;4;4;5;2;2;4;4;3;2;4;1;3;2;3;2;2;3;1;1;2;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;18;3;4;3;5;5;5;3;1;4;4;4;3;2;1;2;3;3;3;5;2;3;4;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;4;3;2;3;3;1;4;5;5;4;2;1;2;4;1;2;1;1;1;1;1;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;19;2;2;1;3;2;4;4;3;5;5;5;3;1;3;3;2;3;3;4;2;4;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;3;3;2;2;3;1;4;4;1;2;1;2;3;1;1;3;2;2;2;3;2;4;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;1;2;1;5;4;5;5;4;4;2;1;3;2;2;2;3;2;1;2;3;3;4;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;19;2;2;1;3;4;3;5;5;2;2;3;3;2;1;2;1;1;2;3;3;1;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;4;2;1;4;4;4;1;2;1;2;3;3;1;1;1;2;3;1;3;4;2;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;20;3;2;3;2;5;4;4;2;3;3;4;2;2;2;1;1;1;1;1;1;1;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;1;1;1;5;5;5;2;2;5;3;4;2;1;1;3;2;2;1;3;3;2;4;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;19;3;4;4;2;1;2;1;2;2;4;3;3;3;1;1;1;2;3;3;3;2;3;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;1;2;1;3;4;2;3;3;3;3;3;2;3;1;3;2;2;2;2;3;2;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;20;3;3;3;3;2;2;5;3;3;1;1;2;2;3;1;1;2;1;1;2;1;4;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;4;3;1;4;1;2;2;4;3;1;3;3;2;1;3;3;1;2;3;2;2;3;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;20;2;2;4;3;3;3;3;3;3;3;3;1;1;4;1;1;2;1;1;1;1;1;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;5;2;4;1;4;5;4;2;2;2;2;3;2;1;3;2;3;2;2;3;2;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;21;4;3;1;1;1;5;1;2;1;1;3;4;2;3;4;2;4;2;3;2;2;2;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;19;2;2;5;5;5;5;3;3;3;1;2;2;2;1;3;2;2;2;2;2;2;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;3;2;3;2;2;2;3;2;3;1;2;2;2;4;2;3;2;2;3;2;2;2;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;21;3;4;4;4;4;4;4;2;2;3;3;2;3;4;5;5;5;4;4;2;2;5;3;Distress (Negative Stress) - Stress that causes anxiety and impairs well-being.;3. Médio
+Não Informado;19;2;2;4;2;1;4;4;3;2;1;2;3;2;2;2;3;4;2;3;1;2;4;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;22;3;4;5;5;5;5;5;1;1;4;2;5;4;1;3;2;3;4;5;4;1;5;4;Distress (Negative Stress) - Stress that causes anxiety and impairs well-being.;3. Médio
+Não Informado;21;1;1;2;1;1;2;4;3;2;1;1;4;1;2;1;1;1;1;4;4;3;3;1;No Stress - Currently experiencing minimal to no stress.;1. Muito Baixo
+Não Informado;22;2;3;2;1;2;3;4;4;2;3;3;4;2;4;2;4;2;3;4;2;3;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;1;2;2;3;1;3;3;2;2;1;2;3;4;1;2;4;1;2;1;2;2;2;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;22;3;4;2;3;4;4;3;3;5;4;4;1;2;3;1;3;3;2;3;3;2;3;5;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;22;4;3;3;4;2;1;3;5;2;1;1;1;2;2;3;1;1;3;2;1;2;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;19;3;3;3;4;3;4;4;5;5;1;4;1;2;3;2;2;2;3;2;4;4;4;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;2;2;3;2;3;2;1;3;1;3;1;1;2;3;2;1;2;1;1;2;2;1;1;No Stress - Currently experiencing minimal to no stress.;2. Baixo
+Não Informado;19;3;2;2;3;4;2;3;2;4;1;1;2;2;3;1;1;1;2;3;1;1;1;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;3;2;1;2;2;2;1;3;1;1;1;3;5;2;2;2;1;1;1;3;2;3;1;No Stress - Currently experiencing minimal to no stress.;3. Médio
+Não Informado;19;4;2;1;2;2;2;4;4;5;5;3;1;1;2;1;1;3;2;2;1;3;4;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;20;4;2;4;5;2;2;4;4;3;2;1;3;2;3;3;1;1;1;2;1;1;2;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;19;3;2;5;5;5;3;1;4;4;4;1;1;2;2;3;1;3;2;2;1;1;2;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;3;2;3;3;1;4;5;5;4;2;1;3;2;2;2;3;1;1;2;4;4;4;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;3;2;3;2;4;4;3;5;5;5;3;1;1;2;2;1;3;3;1;3;2;2;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;3;2;2;3;1;4;4;1;2;1;1;3;3;1;1;4;1;1;2;3;2;2;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;21;3;2;5;4;5;5;4;4;2;1;4;1;1;2;2;1;3;2;3;2;1;3;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;3;2;3;4;3;5;5;2;2;3;1;3;2;3;2;3;4;2;4;2;1;1;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;3;3;4;4;4;1;2;1;2;3;3;4;2;4;2;1;3;2;2;2;4;5;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;21;4;2;2;5;4;4;2;3;3;4;1;3;2;2;2;4;2;3;2;4;2;2;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;20;3;2;5;5;5;2;2;5;3;4;4;2;3;2;3;4;5;5;5;1;1;1;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;3;2;2;1;2;1;2;2;4;3;4;5;5;5;2;2;2;3;4;5;4;5;5;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;21;1;1;3;4;2;3;3;3;3;3;2;2;3;4;4;1;3;2;3;2;2;3;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;19;4;5;3;2;2;5;3;3;1;1;1;3;2;3;1;1;1;1;1;1;1;1;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;17;2;2;4;1;2;2;4;3;1;3;2;1;2;3;4;3;4;2;3;3;3;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;5;1;3;3;3;3;3;3;3;3;2;4;1;2;3;2;2;3;3;2;2;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;18;4;3;1;3;2;3;2;1;2;3;1;3;3;2;3;2;2;2;2;2;3;2;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;19;2;1;2;1;4;2;3;1;2;2;3;1;1;3;2;3;2;2;3;3;2;2;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;18;4;3;2;3;3;2;3;1;2;3;2;2;2;3;2;2;3;2;1;2;3;2;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;19;3;3;1;2;2;2;3;1;2;3;2;1;2;1;2;2;3;3;3;2;2;2;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;18;4;4;3;4;3;3;5;2;2;3;1;1;1;2;3;2;3;1;1;2;3;5;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;18;2;4;1;2;2;3;2;3;5;2;2;2;1;1;3;2;3;3;1;1;2;1;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;17;4;4;3;5;1;2;2;1;1;2;1;1;3;2;1;2;2;1;1;2;2;2;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;18;5;4;1;3;3;3;2;3;2;3;3;1;1;1;1;1;2;1;1;2;2;2;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;17;3;2;1;2;2;2;3;1;2;2;3;1;3;2;5;3;2;3;1;3;2;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;18;3;2;1;4;3;3;1;2;1;2;2;3;1;1;2;3;3;2;1;2;3;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;18;3;3;1;2;3;2;3;2;3;3;2;1;3;3;3;4;1;2;4;1;2;1;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;3;4;1;2;2;1;2;1;1;1;1;4;1;1;1;2;3;1;3;3;2;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;5;5;5;5;2;3;2;3;2;3;2;1;3;2;1;2;2;3;1;1;3;2;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;19;3;3;2;2;3;3;2;2;3;4;2;3;4;2;1;2;3;2;2;2;3;2;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;18;1;1;1;1;1;1;1;1;2;2;2;1;3;2;1;2;3;2;1;2;1;1;2;No Stress - Currently experiencing minimal to no stress.;1. Muito Baixo
+Não Informado;19;5;5;4;5;2;2;2;1;2;2;2;4;2;3;2;2;3;1;1;1;2;3;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;19;2;2;1;2;2;3;5;4;5;2;2;4;1;4;5;4;2;2;2;1;1;1;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;18;3;2;4;4;5;2;1;5;5;5;3;1;1;1;5;1;2;1;1;3;2;2;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;17;1;1;1;1;1;1;5;3;3;1;4;5;5;5;5;3;3;3;1;1;1;2;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;19;4;3;2;3;4;2;5;3;2;4;4;3;2;2;2;3;2;3;1;3;2;2;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;18;4;4;2;4;1;1;3;2;3;1;4;4;4;4;4;4;2;2;3;1;1;2;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;19;2;1;1;1;5;5;4;5;4;5;5;4;2;1;4;4;3;2;1;3;3;1;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;21;4;4;2;3;3;2;5;3;4;3;5;5;5;5;5;5;1;1;4;1;1;2;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;20;4;3;2;4;4;2;4;4;4;4;1;2;1;1;2;4;3;2;1;3;2;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;20;5;4;2;3;4;1;3;2;5;4;4;2;1;2;3;4;4;2;3;4;2;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;21;4;5;3;4;5;5;5;5;5;5;2;2;3;1;3;3;2;2;1;3;2;2;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;20;2;3;2;1;2;1;1;2;1;2;1;2;3;4;4;3;3;5;4;3;4;1;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;4;3;2;4;2;5;1;3;4;2;3;3;4;2;1;3;5;2;1;1;3;5;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;20;5;4;5;5;2;3;1;3;2;2;5;3;4;3;4;4;5;5;1;5;5;5;1;Distress (Negative Stress) - Stress that causes anxiety and impairs well-being.;5. Muito Alto
+Não Informado;21;5;4;3;5;2;5;5;5;2;3;2;3;2;3;2;1;3;1;3;3;5;4;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;20;5;4;2;5;3;3;2;2;3;3;2;2;3;4;2;3;2;4;1;4;5;4;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;21;2;1;1;1;3;1;1;1;1;1;1;1;2;2;2;1;3;1;1;1;5;1;1;No Stress - Currently experiencing minimal to no stress.;2. Baixo
+Não Informado;19;4;5;5;4;4;5;4;5;2;2;2;1;2;2;2;4;4;5;5;5;5;3;5;Distress (Negative Stress) - Stress that causes anxiety and impairs well-being.;4. Alto
+Não Informado;21;2;1;1;2;5;2;1;2;2;3;5;4;5;2;2;4;4;3;2;2;2;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;4;4;4;4;3;2;4;4;5;2;1;5;5;5;3;1;4;4;4;4;4;4;3;Distress (Negative Stress) - Stress that causes anxiety and impairs well-being.;4. Alto
+Não Informado;20;4;2;2;3;4;1;1;1;1;1;5;3;3;1;4;5;5;4;2;1;4;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;21;5;5;5;5;5;3;2;3;4;2;5;3;2;4;4;3;5;5;5;5;5;5;5;Distress (Negative Stress) - Stress that causes anxiety and impairs well-being.;5. Muito Alto
+Não Informado;21;3;3;1;2;2;4;2;4;1;1;3;2;3;1;4;4;1;2;1;1;2;4;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;21;5;5;5;5;1;1;1;1;5;5;4;5;4;5;5;4;4;2;1;2;3;4;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;22;2;1;2;3;1;4;2;3;3;2;5;3;4;3;5;5;2;2;3;1;3;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;4;4;3;4;1;3;2;4;4;2;4;4;4;4;1;2;1;2;3;4;4;3;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;22;2;3;1;2;3;4;2;3;4;1;3;2;5;4;4;2;3;3;4;2;1;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;4;4;4;5;4;5;3;4;5;5;5;5;5;5;2;2;5;3;4;3;4;4;3;Distress (Negative Stress) - Stress that causes anxiety and impairs well-being.;4. Alto
+Não Informado;20;3;2;2;2;4;3;2;1;2;1;1;2;1;2;1;2;2;4;3;3;2;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;2;3;3;3;4;3;2;4;2;5;1;3;4;2;3;3;3;3;3;3;3;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;21;1;1;1;2;1;4;5;5;2;3;1;3;2;2;5;3;3;1;1;1;5;4;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;21;3;2;1;3;2;4;3;5;2;1;3;4;1;2;2;4;3;1;3;2;2;2;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;4;4;2;5;3;4;2;5;3;4;2;3;3;3;3;3;3;3;3;3;4;4;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;20;3;4;2;5;1;2;1;2;2;3;1;5;1;2;3;1;4;1;2;1;3;1;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;2;3;2;1;1;1;1;4;2;1;2;1;2;4;3;2;1;1;3;2;1;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;5;4;2;2;1;3;4;2;3;2;3;4;5;2;2;2;2;1;4;1;1;2;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;20;3;4;3;2;2;3;4;3;5;2;4;1;2;3;1;1;2;1;2;1;1;5;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;3;4;3;4;1;2;4;3;3;1;3;4;4;3;1;2;3;2;3;2;3;4;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;2;2;1;1;1;1;2;2;1;1;1;1;1;2;2;1;2;2;3;1;2;5;2;No Stress - Currently experiencing minimal to no stress.;2. Baixo
+Não Informado;20;5;5;5;5;5;5;5;5;5;5;5;5;5;5;5;5;5;5;5;5;5;5;5;Distress (Negative Stress) - Stress that causes anxiety and impairs well-being.;5. Muito Alto
+Não Informado;20;3;2;1;1;1;2;2;3;2;2;2;1;2;3;1;1;2;1;2;1;2;1;1;No Stress - Currently experiencing minimal to no stress.;3. Médio
+Não Informado;21;3;4;2;3;2;2;2;1;2;3;1;1;2;1;2;1;2;1;2;3;3;1;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;2;1;2;2;2;5;2;2;2;2;2;1;2;2;2;3;3;1;1;1;3;5;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;5;3;2;2;2;1;2;5;3;2;3;2;2;2;1;1;3;5;2;1;3;3;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;20;3;4;2;2;2;2;2;3;4;2;4;2;2;2;2;1;3;3;2;2;2;2;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;18;3;2;2;2;2;2;3;3;1;2;3;2;2;2;2;2;2;2;2;2;2;1;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;5;2;2;2;3;3;2;2;1;2;1;2;2;3;2;2;2;1;1;1;2;2;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;19;4;4;3;3;2;3;3;2;2;3;4;3;4;4;3;3;2;2;2;3;2;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;18;3;2;1;4;2;2;4;4;4;2;1;2;1;1;2;1;5;1;1;1;3;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;4;5;4;1;2;2;2;2;1;1;3;2;3;1;2;2;5;4;3;4;4;2;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;18;1;1;4;4;4;4;2;3;1;1;1;1;5;4;1;1;5;1;2;1;1;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;19;3;4;1;1;2;2;5;4;3;1;1;2;1;3;1;2;5;3;2;3;1;1;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;18;3;4;2;1;5;4;3;3;4;4;3;3;2;3;3;3;2;1;1;5;4;4;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;1;2;2;4;1;1;4;3;3;1;3;3;1;1;2;1;5;1;2;1;3;1;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;19;2;3;3;1;2;1;4;4;2;4;3;2;3;1;2;2;3;4;1;1;3;2;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;2;2;2;1;2;2;5;4;3;4;3;2;2;4;1;1;1;2;3;2;4;1;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;18;5;5;3;1;4;3;3;2;1;1;1;2;5;1;1;1;1;2;1;1;5;1;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;19;1;1;2;2;2;2;3;2;4;3;3;2;4;4;4;2;2;3;4;2;3;2;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;19;3;4;1;2;2;1;3;4;4;1;3;3;2;1;1;1;1;2;3;3;2;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;3;4;2;3;3;4;3;2;1;2;5;4;3;1;2;2;3;2;1;2;3;5;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;21;4;4;4;1;4;4;4;4;2;2;3;2;3;4;2;5;2;2;3;5;3;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;19;3;2;2;3;3;1;5;4;2;1;3;2;3;1;2;2;3;4;3;3;4;2;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;4;4;4;2;5;5;4;3;3;5;3;3;3;1;2;3;2;1;1;2;1;5;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;14;2;2;1;1;1;1;3;4;2;1;2;1;2;1;1;1;1;2;1;1;4;1;1;No Stress - Currently experiencing minimal to no stress.;2. Baixo
+Não Informado;19;2;3;1;1;3;4;4;4;3;4;1;2;3;2;3;4;3;2;3;2;3;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;5;4;3;1;3;1;1;1;2;3;3;2;3;2;3;3;2;3;3;3;3;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;17;3;3;4;4;3;4;5;2;1;4;4;4;3;3;2;2;3;2;2;3;4;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;4;3;3;1;3;4;4;4;2;1;2;2;2;1;1;1;1;3;2;1;2;2;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;21;4;4;2;4;5;5;4;5;4;4;4;4;4;3;4;3;4;4;3;3;2;5;2;Distress (Negative Stress) - Stress that causes anxiety and impairs well-being.;4. Alto
+Não Informado;19;5;4;3;4;3;1;2;1;4;2;4;3;1;2;3;1;4;1;1;1;1;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;36;3;2;1;1;3;5;4;5;5;3;4;4;4;4;2;2;2;2;3;4;3;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;21;3;2;4;3;3;2;1;5;2;3;2;1;2;2;2;2;1;4;3;1;1;3;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;21;3;4;4;1;2;3;4;4;4;4;5;4;5;5;1;1;3;1;1;2;3;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;3;2;1;2;2;1;1;1;2;1;2;4;1;1;5;5;2;4;3;2;3;5;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;4;4;2;2;1;3;2;2;3;3;4;3;2;2;1;1;1;1;1;1;4;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;20;5;4;2;1;2;3;2;3;4;4;1;4;4;1;1;1;1;2;2;2;1;3;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;19;4;3;3;5;2;1;1;2;2;2;1;1;1;1;3;1;2;1;1;1;3;3;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;19;3;4;2;1;1;3;2;4;2;3;5;2;1;5;4;2;1;1;5;3;1;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;4;4;3;4;2;2;2;3;4;5;5;5;4;5;4;3;1;2;3;5;2;2;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;20;1;1;2;3;4;3;2;3;4;5;1;1;3;2;2;1;2;3;3;3;4;3;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;22;5;2;2;2;3;2;3;3;4;5;3;2;3;1;2;1;5;5;5;4;5;5;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;19;4;4;2;2;2;2;2;2;1;2;2;4;4;2;3;4;3;4;2;2;3;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;19;4;5;4;2;5;3;2;3;2;2;2;1;3;1;2;3;2;2;2;2;1;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;19;3;2;2;2;3;4;2;4;2;2;2;5;5;1;5;5;5;5;5;5;5;5;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;18;4;2;5;3;3;1;2;3;2;2;2;2;1;4;3;3;1;3;3;1;3;5;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;28;2;2;1;2;2;1;2;1;2;2;3;3;1;4;4;2;4;3;2;3;4;5;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;3;4;2;3;2;2;3;4;3;4;4;1;2;2;3;4;1;1;3;2;2;5;5;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;4;3;2;4;4;4;2;1;2;1;1;4;1;1;1;2;3;2;4;1;5;1;5;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;20;4;4;4;2;2;1;1;3;2;3;1;1;1;1;1;2;1;1;5;1;1;3;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;19;5;5;2;2;3;1;1;1;1;5;4;4;4;2;2;3;4;2;3;2;5;5;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;19;4;3;2;5;4;3;1;1;2;1;3;1;1;1;1;2;3;3;2;3;4;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;21;4;2;3;3;3;4;4;3;3;2;3;1;2;2;3;2;1;2;3;5;5;4;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;41;2;1;4;4;3;3;1;3;3;1;1;4;2;5;2;2;3;5;3;4;2;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;18;3;3;3;4;4;2;4;3;2;3;1;1;2;2;3;4;3;3;4;2;5;5;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;21;2;2;5;5;4;3;4;3;2;2;4;1;2;3;2;1;1;2;1;5;1;4;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;32;4;3;1;3;2;1;1;1;2;5;1;1;1;1;1;2;1;1;4;1;3;2;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;20;3;2;3;3;2;4;3;3;2;4;4;2;3;4;3;2;3;2;3;3;4;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;21;4;2;3;3;4;4;1;3;3;2;1;2;3;3;2;3;3;3;3;3;4;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;19;2;2;3;3;2;1;2;5;4;3;1;3;2;2;3;2;2;3;4;3;2;2;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;2;2;3;4;4;2;2;3;2;3;4;1;1;1;1;3;2;1;2;2;2;5;5;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;5;5;5;5;4;2;1;3;2;3;1;3;4;3;4;4;3;3;2;5;5;3;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;20;3;2;3;4;3;3;5;3;3;3;1;2;3;1;4;1;1;1;1;3;2;5;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;4;3;3;3;4;2;1;2;1;2;1;4;2;2;2;2;3;4;3;3;5;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;18;3;2;3;4;4;3;4;1;2;3;2;2;2;2;1;4;3;1;1;3;4;5;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;18;3;4;2;1;1;2;3;3;2;3;2;5;1;1;3;1;1;2;3;4;3;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;37;3;2;2;5;2;1;4;4;4;3;3;1;5;5;2;4;3;2;3;5;4;3;5;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;15;2;1;1;4;4;2;1;2;2;2;1;2;1;1;1;1;1;1;4;3;1;3;1;No Stress - Currently experiencing minimal to no stress.;2. Baixo
+Não Informado;19;4;5;2;4;5;4;4;4;4;4;3;1;1;1;1;2;2;2;1;3;4;5;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;21;5;4;2;2;1;4;2;4;3;1;2;1;3;1;2;1;1;1;3;3;4;4;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;21;3;2;1;4;5;5;3;4;4;4;4;5;4;2;1;1;5;3;1;3;2;1;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;21;2;1;2;1;5;2;3;2;1;2;2;5;4;3;1;2;3;5;2;2;2;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;21;2;3;4;4;4;4;4;5;4;5;5;2;2;1;2;3;3;3;4;3;3;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;4;4;3;1;1;2;1;2;4;1;1;1;2;1;5;5;5;4;5;5;4;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;21;4;3;4;2;2;3;3;4;3;2;2;2;3;4;3;4;2;2;3;4;2;3;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;21;2;1;2;2;3;4;4;1;4;4;1;1;2;3;2;2;2;2;1;3;3;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;22;4;4;2;1;2;2;2;1;1;1;1;1;5;5;5;5;5;5;5;5;2;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;20;2;1;2;2;4;2;3;5;2;1;5;4;3;3;1;3;3;1;3;5;4;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;2;2;2;2;3;4;5;5;5;4;5;4;4;2;4;3;2;3;4;5;2;4;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;21;2;3;2;2;3;4;5;1;1;3;2;1;2;1;2;2;3;2;3;2;3;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;4;3;3;3;3;4;5;3;2;3;1;1;3;2;2;2;1;1;3;4;3;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;20;4;3;4;2;4;4;2;4;4;4;2;3;2;4;2;1;1;3;1;2;1;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;20;4;4;2;2;1;4;5;3;1;3;1;1;1;5;3;1;1;4;4;3;2;3;5;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;19;1;3;2;5;5;5;5;5;5;5;1;4;2;3;1;1;1;2;2;1;2;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;22;2;2;3;3;1;5;5;1;2;1;4;3;3;2;1;1;1;2;2;2;4;2;5;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;4;4;1;3;4;2;1;2;2;3;2;1;2;3;4;2;2;3;5;5;2;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;20;2;3;2;1;2;2;4;2;5;2;2;3;5;3;1;1;1;2;3;2;2;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;2;1;2;2;3;3;1;2;2;3;4;3;3;4;2;2;3;2;2;2;2;2;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;3;4;3;2;2;2;1;2;3;2;1;1;2;1;2;5;2;2;4;4;4;4;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;2;3;3;5;5;3;1;1;1;1;2;1;1;4;2;2;3;4;3;2;4;4;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;21;3;3;3;1;1;2;2;3;4;3;2;3;2;3;2;3;2;1;4;4;4;3;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;15;4;3;2;3;4;1;2;3;3;2;3;3;3;3;1;1;1;2;5;4;3;3;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;17;4;3;5;3;4;2;3;2;2;3;2;2;3;4;3;4;3;2;3;2;2;5;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;21;2;2;1;4;4;4;1;1;1;1;3;2;1;2;3;3;2;3;3;3;2;2;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;18;4;2;3;3;2;2;3;4;3;4;4;3;3;2;2;2;3;2;3;4;1;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;21;2;2;2;4;4;4;2;1;2;1;1;2;1;5;1;1;1;3;3;2;1;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;3;2;2;2;2;1;1;3;2;3;1;2;2;5;4;3;4;4;2;3;4;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;3;4;4;2;3;1;1;1;1;5;4;1;1;5;1;2;1;1;4;3;1;4;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;3;2;2;5;4;3;1;1;2;1;3;1;2;5;3;2;3;1;1;1;2;5;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;28;4;5;4;3;3;4;4;3;3;2;3;3;3;2;1;1;5;4;4;3;2;5;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;18;1;1;1;4;3;3;1;3;3;1;1;2;1;5;1;2;1;3;1;1;1;1;1;No Stress - Currently experiencing minimal to no stress.;1. Muito Baixo
+Não Informado;19;1;2;1;4;4;2;4;3;2;3;1;2;2;3;4;1;1;3;2;2;2;4;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;19;4;2;2;5;4;3;4;3;2;2;4;1;1;1;2;3;2;4;1;1;1;1;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;19;3;4;3;3;2;1;1;1;2;5;1;1;1;1;2;1;1;5;1;5;3;5;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;3;2;2;3;2;4;3;3;2;4;4;4;2;2;3;4;2;3;2;3;5;3;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;2;2;1;3;4;4;1;3;3;2;1;1;1;1;2;3;3;2;3;3;3;5;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;18;3;3;4;3;2;1;2;5;4;3;1;2;2;3;2;1;2;3;5;5;4;4;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;4;4;4;4;4;2;2;3;2;3;4;2;5;2;2;3;5;3;4;2;2;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;21;2;3;1;5;4;2;1;3;2;3;1;2;2;3;4;3;3;4;2;2;2;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;18;5;5;5;4;3;3;5;3;3;3;1;2;3;2;1;1;2;1;5;5;5;4;5;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;19;2;1;1;3;4;2;1;2;1;2;1;1;1;1;2;1;1;4;1;1;1;3;1;No Stress - Currently experiencing minimal to no stress.;2. Baixo
+Não Informado;17;4;3;4;4;4;3;4;1;2;3;2;3;4;3;2;3;2;3;3;4;4;2;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;19;3;3;1;1;1;2;3;3;2;3;2;3;3;2;3;3;3;3;3;4;2;5;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;18;4;3;4;5;2;1;4;4;4;3;3;2;2;3;2;2;3;4;3;1;2;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;20;3;3;4;4;4;2;1;2;2;2;1;1;1;1;3;2;1;2;2;1;1;1;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;18;5;5;5;4;5;4;4;4;4;4;3;4;3;4;4;3;3;2;5;5;5;3;5;Distress (Negative Stress) - Stress that causes anxiety and impairs well-being.;5. Muito Alto
+Não Informado;18;2;3;1;2;1;4;2;4;3;1;2;3;1;4;1;1;1;1;3;2;2;2;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;4;3;5;4;5;5;3;4;4;4;4;2;2;2;2;3;4;3;3;4;4;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;19;2;3;2;1;5;2;3;2;1;2;2;2;2;1;4;3;1;1;3;3;3;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;3;2;3;4;4;4;4;5;4;5;5;1;1;3;1;1;2;3;4;3;3;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;3;2;1;1;1;2;1;2;4;1;1;5;5;2;4;3;2;3;5;2;4;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;2;1;3;2;2;3;3;4;3;2;2;1;1;1;1;1;1;4;3;2;3;1;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;2;2;5;3;2;3;1;1;3;2;2;2;1;1;2;2;2;1;3;1;1;2;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;18;3;2;2;4;4;4;2;3;2;4;2;1;1;2;1;1;1;3;3;1;3;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;18;2;1;5;3;1;3;1;1;1;5;3;1;1;1;1;5;3;1;3;2;1;1;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;21;2;2;5;5;5;5;1;4;2;3;1;1;1;1;2;3;5;2;2;1;1;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;18;3;4;5;1;2;1;4;3;3;2;1;1;1;2;3;3;3;4;3;3;3;2;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;24;2;3;1;2;2;3;2;1;2;3;4;2;2;5;5;5;4;5;5;4;5;5;5;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;21;3;4;4;2;5;2;2;3;5;3;1;1;1;3;4;2;2;3;4;2;2;1;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;21;1;2;1;2;2;3;4;3;3;4;2;2;3;2;2;2;2;1;3;2;2;2;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;19;4;2;1;2;3;2;1;1;2;1;2;5;2;5;5;5;5;5;5;3;5;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;18;3;2;1;1;1;1;2;1;1;4;2;2;3;1;3;3;1;3;5;1;1;1;1;No Stress - Currently experiencing minimal to no stress.;3. Médio
+Não Informado;20;2;2;2;3;4;3;2;3;2;3;2;3;2;4;3;2;3;4;5;3;3;4;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;3;4;2;3;3;2;3;3;3;3;1;1;1;4;3;2;2;1;5;3;2;2;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;2;3;3;2;2;3;2;2;3;4;3;4;3;1;1;2;5;5;5;1;4;2;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;1;1;1;1;1;1;3;2;1;2;3;3;2;3;3;2;4;2;2;1;1;1;2;No Stress - Currently experiencing minimal to no stress.;1. Muito Baixo
+Não Informado;19;2;1;3;4;3;4;4;3;3;2;2;2;3;1;3;3;2;4;4;1;1;4;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;17;3;2;2;1;2;1;1;2;1;5;1;1;1;2;5;4;3;1;4;1;2;4;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;17;3;3;1;3;2;3;1;2;2;5;4;3;4;2;3;2;3;5;5;1;2;3;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;18;3;3;1;1;1;5;4;1;1;5;1;2;1;2;1;2;1;1;2;1;3;5;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;3;3;1;1;2;1;3;1;2;5;3;2;3;3;4;2;1;2;3;4;5;4;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;18;3;3;4;3;3;2;3;3;3;2;1;1;5;3;2;2;3;1;3;1;1;5;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;18;4;2;1;3;3;1;1;2;1;5;1;2;1;4;1;2;3;4;4;1;1;5;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;19;3;2;4;3;2;3;1;2;2;3;4;1;1;3;3;3;4;2;1;5;5;4;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;18;3;3;4;3;2;2;4;1;1;1;2;3;2;3;5;3;4;3;4;2;2;4;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;3;3;1;1;2;5;1;1;1;1;2;1;1;4;2;4;3;3;2;2;3;2;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;2;3;3;3;2;4;4;4;2;2;3;4;2;3;3;3;3;3;3;1;2;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;3;3;1;3;3;2;1;1;1;1;2;3;3;2;3;1;1;1;5;2;1;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;2;3;2;5;4;3;1;2;2;3;2;1;2;1;3;1;3;2;2;5;4;5;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;2;3;2;3;2;3;4;2;5;2;2;3;5;3;3;3;3;3;4;3;3;4;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;2;2;1;3;2;3;1;2;2;3;4;3;3;3;2;2;4;1;1;1;3;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;5;2;5;3;3;3;1;2;3;2;1;1;2;1;2;5;1;1;1;1;5;1;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;19;2;3;1;2;1;2;1;1;1;1;2;1;1;3;2;4;4;4;2;2;1;2;1;No Stress - Currently experiencing minimal to no stress.;2. Baixo
+Não Informado;19;1;1;4;1;2;3;2;3;4;3;2;3;2;3;3;2;1;1;1;1;1;1;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;19;3;4;3;3;2;3;2;3;3;2;3;3;3;5;4;3;1;2;2;3;2;4;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;3;2;4;4;4;3;3;2;2;3;2;2;3;3;2;3;4;2;5;2;3;2;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;21;4;2;1;2;2;2;1;1;1;1;3;2;1;3;2;3;1;2;2;3;2;2;2;No Stress - Currently experiencing minimal to no stress.;4. Alto
+Não Informado;19;3;2;4;4;4;4;3;4;3;4;4;3;3;3;3;3;1;2;3;2;3;2;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;24;3;2;2;4;3;1;2;1;4;1;2;3;4;4;1;1;5;1;1;1;2;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;3;2;3;4;4;4;1;1;3;3;3;4;2;1;5;5;4;3;4;3;3;3;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;2;3;3;2;1;2;3;2;3;5;3;4;3;4;2;2;4;3;3;2;2;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;4;3;4;5;4;2;1;1;4;2;4;3;3;2;2;3;2;2;2;3;3;4;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;19;2;2;1;2;4;3;4;2;3;3;3;3;3;3;1;2;4;1;1;1;1;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;2;2;3;4;3;2;3;3;2;3;1;1;1;5;2;1;4;1;3;4;3;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;4;3;4;1;4;2;1;2;1;3;1;3;2;2;5;4;5;1;1;4;1;2;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;18;3;4;2;1;1;2;3;5;3;3;3;3;3;4;3;3;4;4;5;5;3;4;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;4;3;3;5;2;4;3;3;3;2;2;4;1;1;1;3;4;3;5;3;1;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;19;2;2;5;5;5;1;1;2;1;2;5;1;1;1;1;5;1;4;1;2;4;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;3;3;5;1;1;2;1;1;3;2;4;4;4;2;2;1;2;4;2;5;2;4;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;1;2;5;3;2;2;3;2;3;3;2;1;1;1;1;1;1;3;3;3;3;4;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;19;2;2;3;2;3;3;3;3;5;4;3;1;2;2;3;2;4;2;5;4;1;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;4;2;3;5;5;2;2;3;3;2;3;4;2;5;2;3;2;2;2;3;5;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;20;3;2;2;2;1;3;2;1;3;2;3;1;2;2;3;2;2;1;1;5;4;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;1;1;2;1;2;4;3;3;3;3;3;1;2;3;2;3;2;1;1;1;4;4;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;19;3;4;3;5;4;1;1;1;2;1;2;1;1;1;1;2;4;4;3;3;3;3;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;1;2;3;2;1;2;3;4;1;2;3;2;3;4;3;3;3;1;1;3;4;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;20;3;3;2;3;4;4;3;1;3;2;3;2;3;3;2;2;4;2;3;4;4;4;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;4;3;2;1;1;1;1;2;4;4;3;3;2;2;3;3;4;2;3;5;1;3;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;20;2;2;1;3;2;4;3;2;2;2;2;1;1;1;1;1;3;1;4;3;4;1;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;5;2;2;3;2;1;1;1;1;2;3;1;1;3;4;3;3;2;1;3;4;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;21;4;3;2;1;1;2;2;2;2;1;5;1;1;1;4;1;2;1;3;3;4;2;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;19;2;2;1;3;2;1;1;1;1;1;1;5;4;5;5;3;4;3;1;3;3;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;3;2;2;2;2;1;5;3;3;3;3;2;3;5;3;1;3;5;2;2;3;2;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;21;3;3;4;3;2;2;3;5;2;1;3;2;4;1;2;4;3;3;4;3;4;5;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;3;2;3;2;3;3;4;5;3;2;3;1;2;1;5;5;5;4;5;5;4;4;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;22;2;3;4;2;2;4;4;2;4;4;4;2;3;4;3;4;2;2;3;4;1;5;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;21;1;1;2;1;2;1;4;5;3;1;3;1;2;3;2;2;2;2;1;3;5;3;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;22;4;4;2;1;5;5;5;5;5;5;5;1;5;5;5;5;5;5;5;5;5;4;2;Distress (Negative Stress) - Stress that causes anxiety and impairs well-being.;4. Alto
+Não Informado;20;1;3;2;1;3;1;5;5;1;2;1;4;3;3;1;3;3;1;3;5;4;2;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;22;4;2;2;3;2;1;3;5;3;3;1;4;4;2;4;3;2;3;4;5;4;2;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;22;4;3;4;1;1;1;3;1;4;1;2;5;4;3;4;3;2;2;1;5;1;1;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;19;3;2;3;5;5;4;5;4;3;4;3;3;2;1;1;1;2;5;5;5;3;4;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;1;1;1;1;1;1;3;2;3;1;2;3;2;4;3;3;2;4;2;2;3;4;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;19;1;2;1;1;4;5;4;4;5;1;1;3;4;4;1;3;3;2;4;4;4;5;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;19;2;3;2;2;2;1;3;1;3;1;4;3;2;1;2;5;4;3;1;4;4;2;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;2;3;3;5;5;5;5;5;5;5;4;4;4;2;2;3;2;3;5;5;5;3;1;Distress (Negative Stress) - Stress that causes anxiety and impairs well-being.;2. Baixo
+Não Informado;20;2;3;3;1;1;2;1;2;1;2;3;1;1;1;2;1;2;1;1;2;4;4;2;No Stress - Currently experiencing minimal to no stress.;2. Baixo
+Não Informado;19;3;3;3;5;5;5;3;5;2;5;4;3;3;1;3;4;2;1;2;3;4;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;2;3;3;2;2;3;5;2;1;2;5;2;5;1;3;2;2;3;1;3;3;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;4;4;2;2;3;2;4;3;2;3;4;4;4;3;4;1;2;3;4;4;3;2;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;20;3;3;2;3;1;2;3;1;1;3;2;1;3;2;3;3;3;4;2;1;3;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;21;3;3;3;3;4;5;5;5;4;5;5;4;5;3;3;5;3;4;3;4;4;3;1;Distress (Negative Stress) - Stress that causes anxiety and impairs well-being.;3. Médio
+Não Informado;19;2;3;3;1;2;2;4;3;1;2;1;4;1;2;3;4;4;1;1;5;4;4;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;3;2;3;4;3;3;3;3;4;1;1;3;3;3;4;2;1;5;5;4;3;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;21;3;3;3;1;1;1;2;1;2;3;2;3;5;3;4;3;4;2;2;4;4;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;3;2;3;1;1;4;2;2;2;1;1;4;2;4;3;3;2;2;3;2;2;2;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;3;2;3;2;2;2;4;4;3;4;2;3;3;3;3;3;3;1;2;4;4;2;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;21;4;1;1;5;5;1;5;5;2;3;3;2;3;1;1;1;5;2;1;4;4;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;19;1;3;1;5;1;1;3;1;2;1;2;1;3;1;3;2;2;5;4;5;2;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;17;1;1;2;5;3;3;2;1;2;3;5;3;3;3;3;3;4;3;3;4;2;5;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;20;5;5;1;2;1;3;3;2;4;3;3;3;2;2;4;1;1;1;3;4;5;1;5;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;18;2;1;3;4;1;5;4;4;1;1;2;1;2;5;1;1;1;1;5;1;2;5;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;1;2;3;2;3;1;5;1;2;1;1;3;2;4;4;4;2;2;1;2;2;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;18;2;2;3;2;1;2;1;2;2;3;2;3;3;2;1;1;1;1;1;1;3;5;5;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;2;1;2;3;2;3;4;5;3;3;3;5;4;3;1;2;2;3;2;4;3;3;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;18;2;3;2;5;2;4;1;2;2;2;3;3;2;3;4;2;5;2;3;2;2;4;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;18;2;1;4;3;3;3;3;3;3;2;1;3;2;3;1;2;2;3;2;2;3;5;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;17;2;3;2;3;1;3;4;4;4;3;3;3;3;3;1;2;3;2;3;2;4;4;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;18;5;1;2;1;1;1;1;1;1;1;1;2;1;2;1;1;1;1;2;4;3;4;4;No Stress - Currently experiencing minimal to no stress.;5. Muito Alto
+Não Informado;17;2;1;3;5;5;5;5;5;2;3;4;1;2;3;2;3;4;3;3;3;2;4;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;18;1;1;4;2;2;2;1;2;4;3;1;3;2;3;2;3;3;2;2;4;4;4;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;18;1;5;1;2;5;2;2;2;1;1;2;4;4;3;3;2;2;3;3;4;2;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;19;1;2;1;2;1;2;5;3;4;3;2;2;2;2;1;1;1;1;1;3;5;5;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;19;5;3;3;2;2;2;3;4;1;1;1;1;2;3;1;1;3;4;3;3;5;5;5;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;19;2;1;3;2;2;3;3;1;2;2;2;2;1;5;1;1;1;4;1;2;2;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;18;1;3;4;3;3;2;2;1;1;1;1;1;1;1;5;4;5;5;3;4;1;4;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;19;5;3;1;3;2;3;2;1;1;5;3;3;3;3;2;3;5;3;1;3;3;3;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;19;2;1;4;5;2;5;3;1;2;3;5;2;1;3;2;4;1;2;4;3;2;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;18;3;3;1;4;4;4;3;5;4;3;3;4;3;1;3;5;5;3;3;3;5;4;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;17;1;2;4;4;3;2;3;3;4;4;2;3;2;4;3;3;2;5;3;1;1;1;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;19;4;3;2;2;3;3;3;3;3;3;2;2;2;2;2;2;2;3;4;2;4;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;18;4;2;2;3;3;4;1;4;4;4;3;3;3;2;3;4;4;5;4;3;4;4;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;19;2;2;2;2;3;3;1;2;3;3;1;3;2;2;1;3;2;4;1;3;2;4;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;21;4;1;4;4;3;5;3;4;5;4;2;3;3;3;3;4;4;3;5;3;3;3;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;20;4;1;3;4;4;4;2;2;2;4;1;1;1;1;3;5;4;5;5;5;5;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;20;5;1;3;4;3;2;4;4;1;1;1;4;2;5;4;3;2;5;4;4;3;4;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;21;4;3;2;1;2;3;5;5;5;4;5;5;4;5;3;3;5;3;4;5;5;4;3;Distress (Negative Stress) - Stress that causes anxiety and impairs well-being.;4. Alto
+Não Informado;20;2;1;5;1;5;4;2;4;3;1;2;1;4;1;2;3;4;4;1;3;4;1;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;4;5;2;1;2;3;3;3;3;4;1;1;3;3;3;4;2;1;5;1;3;5;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;20;5;1;3;2;2;3;1;2;1;2;3;2;3;5;3;4;3;4;2;5;5;5;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;21;5;1;3;4;4;4;4;2;2;2;1;1;4;2;4;3;3;2;2;3;5;4;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;20;5;2;2;1;1;4;2;4;4;3;4;2;3;3;3;3;3;3;1;4;5;4;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;21;2;5;3;4;4;4;1;5;5;2;3;3;2;3;1;1;1;5;2;1;5;1;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;4;1;2;1;1;1;1;3;1;2;1;2;1;3;1;3;2;2;5;5;5;3;5;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;21;2;5;2;2;1;1;3;2;1;2;3;5;3;3;3;3;3;4;3;2;2;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;4;2;5;3;5;1;3;3;2;4;3;3;3;2;2;4;1;1;1;4;4;4;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;20;4;2;3;2;2;4;5;4;4;1;1;2;1;2;5;1;1;1;1;1;4;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;21;5;3;3;1;4;2;1;5;1;2;1;1;3;2;4;4;4;2;2;5;5;5;5;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;21;3;3;2;2;3;2;2;1;2;2;3;2;3;3;2;1;1;1;1;1;2;4;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;21;5;1;2;3;3;4;3;4;5;3;3;3;5;4;3;1;2;2;3;2;3;4;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;22;2;4;3;3;4;1;4;1;2;2;2;3;3;2;3;4;2;5;2;1;3;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;4;1;1;3;2;3;3;3;3;3;2;1;3;2;3;1;2;2;3;4;4;3;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;22;2;1;1;3;2;1;3;5;5;5;4;5;5;4;5;3;3;5;3;4;1;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;4;2;2;2;3;2;1;2;4;3;1;2;1;4;1;2;3;4;4;1;4;4;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;20;3;2;2;2;5;2;5;3;3;3;4;1;1;3;3;3;4;2;1;5;2;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;2;3;3;4;3;3;2;1;2;1;2;3;2;3;5;3;4;3;4;2;3;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;21;1;1;2;2;3;1;2;4;2;2;2;1;1;4;2;4;3;3;2;2;5;4;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;21;3;2;3;2;1;1;2;2;4;4;3;4;2;3;3;3;3;3;3;1;2;2;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;4;4;5;3;5;5;2;1;5;5;2;3;3;2;3;1;1;1;5;2;4;4;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;20;3;4;2;4;2;2;3;1;3;1;2;1;2;1;3;1;3;2;2;5;3;1;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;2;3;1;1;2;5;2;3;2;1;2;3;5;3;3;3;3;3;4;3;1;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;5;4;3;1;2;1;3;3;3;2;4;3;3;3;2;2;4;1;1;1;1;2;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;20;3;4;3;3;2;2;5;5;4;4;1;1;2;1;2;5;1;1;1;1;1;5;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;3;3;3;3;2;2;4;1;5;1;2;1;1;3;2;4;4;4;2;2;3;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;3;4;2;4;3;3;2;2;1;2;2;3;2;3;3;2;1;1;1;1;3;4;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;2;2;1;1;3;2;3;3;4;5;3;3;3;5;4;3;1;2;2;3;2;5;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;20;5;5;5;4;5;2;5;4;1;2;2;2;3;3;2;3;4;2;5;2;5;5;5;Distress (Negative Stress) - Stress that causes anxiety and impairs well-being.;5. Muito Alto
+Não Informado;20;3;2;2;1;4;4;4;3;3;3;3;2;1;3;2;3;1;2;2;3;2;1;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;21;3;4;1;4;4;3;2;3;4;4;4;3;3;3;3;3;1;2;3;2;3;1;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;2;1;1;2;2;3;3;1;1;1;1;1;1;2;1;2;1;1;1;1;3;5;1;No Stress - Currently experiencing minimal to no stress.;2. Baixo
+Não Informado;20;5;3;2;2;3;3;4;5;5;5;2;3;4;1;2;3;2;3;4;3;3;3;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;20;3;4;2;2;2;3;3;2;1;2;4;3;1;3;2;3;2;3;3;2;2;2;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;18;3;2;2;4;4;3;5;2;2;2;1;1;2;4;4;3;3;2;2;3;2;1;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;5;2;3;3;4;4;4;2;5;3;4;3;2;2;2;2;1;1;1;1;2;2;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;19;4;4;4;3;4;3;2;2;3;4;1;1;1;1;2;3;1;1;3;4;3;5;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;18;3;2;4;2;1;2;3;3;3;1;2;2;2;2;1;5;1;1;1;4;3;4;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;4;5;3;5;1;5;4;2;2;1;1;1;1;1;1;1;5;4;5;5;2;4;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;18;1;1;1;2;1;2;3;3;2;1;1;5;3;3;3;3;2;3;5;3;1;5;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;19;3;4;3;3;2;2;3;5;3;1;2;3;5;2;1;3;2;4;1;2;2;3;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;18;3;4;2;3;4;4;4;4;3;5;4;3;3;4;3;1;3;5;5;3;3;2;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;1;2;1;2;1;1;4;2;3;3;4;4;2;3;2;4;3;3;2;5;2;3;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;1. Muito Baixo
+Não Informado;19;2;3;2;3;4;4;4;2;4;4;3;1;5;5;5;2;4;3;4;3;5;3;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;2;2;3;2;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;3;3;4;3;No Stress - Currently experiencing minimal to no stress.;2. Baixo
+Não Informado;18;5;5;1;2;2;1;1;1;1;1;1;2;1;1;1;1;2;2;3;1;2;1;2;No Stress - Currently experiencing minimal to no stress.;5. Muito Alto
+Não Informado;19;1;1;1;5;3;5;1;1;1;1;1;5;1;3;1;2;1;1;2;1;1;4;2;No Stress - Currently experiencing minimal to no stress.;1. Muito Baixo
+Não Informado;19;3;4;2;3;2;2;4;3;5;3;2;1;2;4;2;1;1;5;4;3;2;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;3;4;3;3;1;4;2;1;3;5;4;2;5;4;3;1;2;3;2;3;3;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;21;4;4;2;2;2;3;2;2;1;1;1;1;2;2;1;2;3;3;3;2;3;4;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;19;3;2;1;2;3;3;4;1;2;3;2;5;1;2;1;5;5;5;1;2;1;2;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;4;4;3;1;4;5;2;5;3;1;3;1;2;1;1;4;1;2;2;3;3;2;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;14;2;2;1;1;1;4;4;4;3;5;4;3;3;4;3;1;3;5;5;2;1;5;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;2;3;3;2;4;4;3;2;3;3;4;4;2;3;2;4;3;3;2;2;2;5;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;2. Baixo
+Não Informado;19;5;4;4;3;2;2;3;3;3;3;3;3;2;2;2;2;2;2;2;1;1;5;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;17;3;3;4;3;2;3;3;4;1;4;4;4;3;3;3;2;3;4;4;1;2;5;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;20;4;3;3;4;2;2;3;3;1;2;3;3;1;3;2;2;1;3;2;3;3;2;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;21;4;4;4;4;4;4;3;5;3;4;5;4;2;3;3;3;3;4;4;2;1;5;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;19;5;4;4;5;3;4;4;4;2;2;2;4;1;1;1;1;3;5;4;3;3;2;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;36;3;2;2;3;3;4;3;2;4;4;1;1;1;4;2;5;4;3;2;1;1;3;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;21;3;2;1;3;2;1;2;3;1;3;1;2;2;1;2;2;1;3;3;2;3;2;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;21;3;4;2;3;5;1;5;4;1;3;4;2;1;5;2;3;3;3;4;1;2;2;2;Eustress (Positive Stress) - Stress that motivates and enhances performance.;3. Médio
+Não Informado;19;3;2;1;2;2;1;2;3;1;2;2;4;1;1;1;1;1;3;2;1;2;3;1;No Stress - Currently experiencing minimal to no stress.;3. Médio
+Não Informado;19;4;4;3;4;3;2;2;3;1;2;3;2;3;1;2;2;2;2;3;1;4;5;3;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
+Não Informado;20;5;4;3;4;3;4;4;4;2;3;4;3;2;1;2;2;1;4;3;5;4;5;1;Eustress (Positive Stress) - Stress that motivates and enhances performance.;5. Muito Alto
+Não Informado;19;4;3;1;3;2;1;1;4;2;4;3;1;1;3;1;1;3;1;1;2;2;5;4;Eustress (Positive Stress) - Stress that motivates and enhances performance.;4. Alto
